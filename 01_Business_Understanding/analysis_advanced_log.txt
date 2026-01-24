@@ -1,0 +1,475 @@
+Analyzing Benchmark ODS...
+Checking for Hybrid/Weighting approaches in ODS...
+Match in ODS Row 37: 09762923.pdf
+
+Scanning 106 PDFs for Advanced Topics...
+--- SkillDiscrepanciesBetween_Brner_2018.pdf ---
+[Feature_Selection]: hard skills by execu-
+velopment of classification systems and maps of science (23), we                    tives (30), the association is imperfect.
+
+--- SeeDiscussionsStats_Unknownauthor_2024.pdf ---
+[Feature_Selection]: Career adaptability is a psychological construct representing an individual's resources for responding to current
+and assigned tasks, transitions, and traumas in their work roles' (Savickas & Porfeli, 2012).
+
+--- EmployabilityStatisticsGraduates_Abdulazeez_2024.pdf ---
+[Citation_Ayaneh]: The
+Ayaneh et al.
+[Cox_Violation]: FROM ACADEMIA TO CAREERS: A COMPARATIVE STUDY OF COX AND PARAMETRIC AFT SURVIVAL MODELS                          263
+In the Accelerated Failure Time (AFT) model, the            Model selection in survival analysis involves choosing
+choice of distributional assumption is crucial for          between competing models to identify the one that
+reliable estimations.
+
+--- TheRoleSoft_Mwita_2024.pdf ---
+[Hybridization_Context]: The weighted mean for technical skills was found to be 3.
+[Citation_Mwita]: php/ijrbs
+
+
+
+
+The role of soft skills, technical skills and academic performance on
+graduate employability
+       Kelvin M Mwita (a)                   Nivad H Mwilongo (b) *               Imani Mwamboma (c)
+(a)
+    Lecturer, Department of Public Service and Human Resource Management, Mzumbe University, Tanzania
+(b)
+    Tutorial Assistant, Department of Public Service and Human Resource Management, Mzumbe University, Tanzania
+(c)
+    Assistant Lecturer, Department of Public Service and Human Resource Management, Mzumbe University, Tanzania
+
+
+
+
+      ARTICLE INFO                                    ABSTRACT
+
+      Article history:                                This study examined the role of soft skills, technical skills and academic performance on graduate
+                                                      employability.
+
+--- NovelBehavioralScoring_Wang_2017.pdf ---
+[Feature_Selection]: Further research may add the variables reflecting the man-
+agement interfere from P2P platform to further improve the dynamic assessment.
+
+--- CompetenciesForTourism_Putra_2022.pdf ---
+[Hybridization_Context]: 94-104
+
+
+
+                              Table 4 - Graduates perceptions on the learning methods
+                                                                                   Weighted
+     Type of Learning Methods                                               Rank
+                                                                                     Mean           Interpretation
+     Internship                                                             1         4.
+
+--- AsiaPacificSocial_Unknownauthor_2020.pdf ---
+[Feature_Selection]: in many organizations do not require only the perfect
+This unbalanced condition is challenging the higher        qualifications of applicants, but they also expect
+educational institutes to cultivate young human capital    soft skills, which have a higher contribution to the
+for the competitive global economy and future careers.
+
+--- ApplicationMachineLearning_Buenaofernndez_2019.pdf ---
+[Hybridization_Context]: , PG)
+                                                                                         of three partial          weighted
+                                                                                                               components
+ differently:   PG1  is  35%; PG2   is 35%;    and  PG3   is 30%.
+[Feature_Selection]: identifies (almost with a perfect line) that up to 5.
+
+--- WhatMakesAProgram_DinarteDiaz_2021.pdf ---
+[Hybridization_Context]: Statistics are weighted by WBSCPS sampling weights.
+[Feature_Selection]: First, we select the set of explanatory variables for student outcomes by using
+
+the adaptive Least Absolute Shrinkage and Selection Operator (LASSO) technique.
+
+--- PredictingGraduateEmployability_A_2025.pdf ---
+[Feature_Selection]: After the optimal features selected by recursive feature elimination (RFE) method, four ML algorithms were
+employed to build the models.
+
+--- Hindawi_Unknownauthor_2022.pdf ---
+[Citation_Ayaneh]: Ayaneh et al.
+[Cox_Violation]: In addition, Cox proportional hazard and log-normal
+          accelerated failure time models were fitted to model waiting time for first employment with various factors.
+
+--- TheAcceleratedFailure_Wei_1992.pdf ---
+[Cox_Violation]: A
+
+
+                                                  SUMMARY
+For the past twm decades the Cox proportional hazards model has been used extensively to examine the
+covariate effects on the hazard function for the failure time variable.
+
+--- ReceivedJune2023_Unknownauthor_2024.pdf ---
+[Hybridization_Context]: Proportional hazards tests and diagnostics based on weighted residuals.
+[Cox_Violation]: Chen3
+
+1
+  Kingston General Health Research
+Institute, Queen’s University, Kingston,             The Cox regression model or accelerated failure time regression models are often
+Ontario, Canada                                      used for describing the relationship between survival outcomes and potential
+2
+  Department of Mathematics and                      explanatory variables.
+[Feature_Selection]: A C-index of exactly 1 indicates that the model’s
+predictions are perfectly ordered, 0.
+
+--- ModeloPredictivoPara_Carrascotenezaca_2022.pdf ---
+[Feature_Selection]: Denic A, Glassock RJ, Rule AD.
+
+--- SurvivalNeuralNetworks_Zhang_2020.pdf ---
+[Hybridization_Context]: [39] estimated time-varying coefficients by maximizing a
+   kernel-weighted partial likelihood, while Sun et al.
+[Feature_Selection]: Tibshirani R et al (1997) The LASSO method for variable selection in the Cox model.
+
+--- TracerStudyBachelor_Maaliw_2022.pdf ---
+[Hybridization_Context]: 83
+the optimized hyperparameters by observing weighted                                  Naïve Bayes                     0.
+
+--- ProposingNewMethod_Shahiri_2024.pdf ---
+[Feature_Selection]: This coefficient is
+between -1 and 1 for perfect correlation and 0 for neutrality [15].
+
+--- FactorsAffectingBusiness_Hossain_2019.pdf ---
+[Feature_Selection]: The study was conducted in a
+developing country, Bangladesh, which provided the perfect opportunity to explore the impact
+of sociocultural factors on business graduates’ employability.
+
+--- DimensionsProgramRelevance_Garcia_2022.pdf ---
+[Hybridization_Context]: Lastly, personality development,
+weighted at 0.
+
+--- PredictingStudentEmployability_Saidani_2022.pdf ---
+[Citation_Saidani]: 3170421
+
+
+
+
+Predicting Student Employability Through the
+Internship Context Using Gradient
+Boosting Models
+OUMAIMA SAIDANI , (Member, IEEE), LEILA JAMEL MENZLI , AMEL KSIBI ,
+NAZIK ALTURKI , AND ALA SALEH ALLUHAIDAN
+Department of Information Systems, College of Computer and Information Sciences, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia
+Corresponding author: Nazik Alturki (namalturki@pnu.
+
+--- ExpertSystemsWith_Unknownauthor_2024.pdf ---
+[Hybridization_Context]: So they scale poorly also with                     where 𝐗̄ 𝑘 , and 𝐘̄ 𝑘 are weighted averages defined as:
+input space dimensionality.
+
+--- ExplainableMachineLearning_Moncadatorres_0000.pdf ---
+[Hybridization_Context]: XGB’s final output is given by the
+                                           (weighted) sum of all the predictions made by all the individual trees.
+[Feature_Selection]: , no predictive discrimina-
+                                 tion), while c = 1 corresponds to a model capable of perfectly separating patients with different o  ­ utcomes39,40.
+
+--- EmployabilityLatinHonor_Ricovillanueva_2025.pdf ---
+[Citation_Mwita]: In a study by Mwita et al.
+
+--- BeyondCoxModels_Rossi_2025.pdf ---
+[Cox_Violation]: Indeed, the performance of these methods has
+                                         often been underestimated due to the improper use of Harrell’s concordance
+                                         index (C-index) instead of more appropriate scores such as Antolini’s concor-
+                                         dance index, which generalizes C-index in cases where the PH assumption does
+                                         not hold.
+[Feature_Selection]: Other deep versions of
+the CoxPH model have been introduced after DeepSurv, for instance FastCPH
+[26], an extension of the LassoNet[15] method to survival outcomes.
+
+--- MachineLearningFor_Grimm_2020.pdf ---
+[Feature_Selection]: The 45-degree straight line represents the perfect match
+      survival (RF) and conditional inference forest (CF)).
+
+--- CustomizedSupportVector_Jayachandran_2024.pdf ---
+[Hybridization_Context]: (June 2024) 16(5):3193–3204
+
+
+References                                                                  weighted positioning for feature selection.
+[Citation_Saidani]: 19% (J48)       Engineering domain, logical rea-
+                                                                             graphic, academic, emotional        Bayes, Multilayered Percep-                       soning, participation in extra-
+                                                                             skill parameter                     tron, Sequential Minimal                          curricular activities, Backlog
+                                                                                                                 Optimization                                      record were not considered
+     Saidani et al.
+[Feature_Selection]: Recursive feature elimination (RFE), Gradient boosting
+                                                                       We found that the highest accuracy is achieved if the
+Method (GBM))and the hybrid method (Lasso and Ridge
+                                                                   RBF is used as the kernel function.
+
+--- SurvlimeMethodFor_Kovalev_2020.pdf ---
+[Hybridization_Context]: The weighted average distance between the CHFs of the Cox model and the black-box survival model
+allows us to construct an optimization problem and to compute the optimal vector b by solving the
+optimization problem.
+[Cox_Violation]: One of the
+popular regression model for the analysis of survival data is the well-known Cox proportional hazards
+model, which is a semi-parametric model that calculates effects of observed covariates on the risk of
+an event occurring, for example, the death or failure [11].
+[Feature_Selection]: In particular, Tibshirani [51] proposed a modification of the Cox model based on the Lasso
+method in order to take into account a high dimensionality of survival data.
+
+--- PredictingComputerEngineering_A_2025.pdf ---
+[Feature_Selection]: A value of 1
+                                                represents perfect prediction.
+
+--- InsercinLaboralLos_Albandeausategui_2018.pdf ---
+[Hybridization_Context]: This sample was adjusted and weighted in relation
+                                                                    to respondents’ characteristics.
+[Feature_Selection]: Although they acknowledge that measurements of
+                                                                    such skills may be imperfect, especially because they are often influenced by the
+                                                                    characteristics of the family environment, they find that different estimates systematically
+                                                                    lead to positive and significant effects of such skills, in particular when controls are included
+
+                                                                    2
+                                                                    for ethnic membership, labour market conditions, residential region, cognitive skills, family
+                                                                    environment, and place of residence.
+
+--- PredictingStudentPerformance_Alhubaishi_2019.pdf ---
+[Feature_Selection]: 770 for a ‘‘perfect’’ model that used the true digit as the predictor
+                                 variable.
+
+--- SurvivalPredictionModels_Suresh_2022_1.pdf ---
+[Hybridization_Context]: regression methods applied directly to the event times
+Boosting       Are an ensemble of base learners that are constructed        is the inclusion of censored observations in the estima-
+               sequentially and are progressively reweighted to increase
+               emphasis on observations with wrong predictions and          tion procedure.
+[Cox_Violation]: Each indi-
+on a proportional hazards assumption for the survival             vidual’s follow-up time is split into a set of pre-specified,
+times that when violated can lead to inaccurate predic-           common time intervals, and their survival status is
+tions.
+[Feature_Selection]: Additionally, can encourage sparsity by        h(t) = h0 (t) exp{βX}, where h0 (t) is the baseline hazard
+               using an 1 penalty (LASSO) to avoid overfitting and         (i.
+
+--- GradientBoostingSurvival_Bai_2021.pdf ---
+[Hybridization_Context]: Maximum weighted quantile spilt algorithm
+
+   The split algorithm for GBST stated in Algorithm 1 is a greedy algorithm exploring
+all possible split points, which can be extremely time-consuming when the value set of
+features is very large.
+[Feature_Selection]: 0 (perfect discrimination).
+
+--- DeepLearningFor_Wiegrebe_2024.pdf ---
+[Hybridization_Context]: The final loss is usually
+computed as the (weighted) average of all losses applied.
+[Feature_Selection]: ​1007/​s00180-​021-​01086-3
+Xie G et al (2019) Group lasso regularized deep learning for cancer prognosis from multi-omics and clinical
+      features.
+
+--- InternationalResearchExperiences_Verbyla_2023.pdf ---
+[Feature_Selection]: Engineering student participants in
+a three-week study-abroad program to Guatemala increased their scores on intercul-
+tural sensitivity assessments after the trip (Merfeld-Langston & Elmore, 2017).
+
+--- ComparativeAnalysisMachine_L_2025.pdf ---
+[Feature_Selection]: clusters was determined to be three, based on an integrated
+The following cytokines and chemokines were measured: interleukins                evaluation of total within-cluster sum of squares, average silhouette
+(IL)-1b, IL-2, IL-4, IL-5, IL-6, IL-7, IL-8, IL-9, IL-10, IL-12p70, IL-13,        width, and dendrogram analysis, which collectively indicated the best
+IL-15, IL-17, IFNg, tumor necrosis factor-a (TNFa), interferon-                   balance between compactness and separation.
+
+--- GraduateEmployabilityTracer_N_0000.pdf ---
+[Hybridization_Context]: Weighted average metrics.
+[Feature_Selection]: [17] found that higher-level employees
+                           experience more work interference with family than those at lower levels of the organization.
+
+--- CphAndAft_Abdullahi_2024.pdf ---
+[Citation_Ayaneh]: Some
+of the factors that influence time-to-employment includes gender, age at graduation, grade/class of
+certificate/CGPA, course of study and Marital status among others (Ayaneh, Dessie and Ayele, 2020; Ezeani,
+2018; Soon, Lee, Lim, Idris and Eng, 2019).
+[Cox_Violation]: This is against
+Cox proportional hazards (CPH) and accelerated failure time (AFT) models that are traditionally used to model
+such types of data.
+
+--- TheTransitionFrom_Cordnlagares_2021.pdf ---
+[Feature_Selection]: In this sense, Hicks (1964) noted that imperfect knowledge of job op-
+portunities could lead to a lack of investment of time to acquire such information and hence to unemployment.
+
+--- PredictingTheTime_Bouliotis_2024.pdf ---
+[Feature_Selection]: The data preparation for analysis
+bines two individual regression penalties known as lasso            and the statistical modeling was implemented in Stata
+(l1) and ridge regression (l2) borrowing strength from the          ( Stata v.
+
+--- SurvivalModelsFor_Mengstie_2020.pdf ---
+[Citation_Ayaneh]: 1155/2020/8877504
+
+
+
+
+Research Article
+Survival Models for the Analysis of Waiting Time to First
+Employment of New Graduates: A Case of 2018 Debre Markos
+University Graduates, Northwest Ethiopia
+
+          Muluye Getie Ayaneh ,1 Askalemariam Adamu Dessie ,2 and Amare Wubishet Ayele                                                    1
+
+          1
+            Department of Statistics, College of Natural and Computational Science, Debre Markos University, P.
+[Cox_Violation]: Cox PH and parametric accelerated failure time models were used.
+
+--- StudyFeatureSelection_Borrs_2014.pdf ---
+[Cox_Violation]: If it is desired
+NIH-PA Author Manuscript
+
+
+
+
+                                to test continuous predictors or to test multiple covariates at once, survival regression models such
+                                as the Cox model or the accelerated failure time model (AFT) should be used.
+[Feature_Selection]: It
+                                           should be noted that there is no distribution that provides a perfect fit, and it is possible that
+                                           more than one distribution may fit the data well.
+
+--- GraduatesEmployabilityPrediction_G_2022.pdf ---
+[Citation_Salas-Velasco]: (2022) and Salas-Velasco (2021), who exploit the previous EILU wave in 2014,
+                                 when master’s graduates were not interviewed.
+[Feature_Selection]: Background and hypotheses                                                                                University-
+               Educational mismatch has largely been explained by imperfect information and information                  supported job
+               asymmetries in the labour market (Stigler, 1962): graduates may overinvest in human capital
+               as a way to demonstrate their abilities to prospective employers.
+
+--- SurvivalAnalysisPatients_Alrawi_2023.pdf ---
+[Feature_Selection]: Graduates believed there
+was no perfect institution, but they strived to produce quality services and programs for every
+graduate.
+
+--- UndervaluedProfessionalsPlacement_Romn_2023.pdf ---
+[Hybridization_Context]: 3, two-sided
+  weighted chi-square test was performed to estimate the difference between public and private university graduates,
+  IC 95%, p between 0.
+
+--- Hindawi_Unknownauthor_2020.pdf ---
+[Citation_Ayaneh]: 1155/2020/8877504
+
+
+
+
+Research Article
+Survival Models for the Analysis of Waiting Time to First
+Employment of New Graduates: A Case of 2018 Debre Markos
+University Graduates, Northwest Ethiopia
+
+          Muluye Getie Ayaneh ,1 Askalemariam Adamu Dessie ,2 and Amare Wubishet Ayele                                                   1
+
+          1
+            Department of Statistics, College of Natural and Computational Science, Debre Markos University, P.
+[Cox_Violation]: Cox PH and parametric accelerated failure time models were used.
+
+--- FactorsInfluencingThe_L_2021.pdf ---
+[Hybridization_Context]: A composite measure, equally
+
+weighted across the items, was computed for the four predictor variables; thesis examination
+
+and goals and expectations were not included in the analysis.
+[Feature_Selection]: It does
+
+not provide a perfect answer to why one graduate may attain full-time work while another
+
+cannot but it does provide new insights into those factors that account for post-PhD
+
+employment outcomes.
+
+--- SurvivalAnalysisUsing_Garcialopez_2025.pdf ---
+[Hybridization_Context]: Body Mass
+  Consequently, hybrid approaches have emerged to har-                   Index (BMI) is relevant because obesity can increase sur-
+ness the strengths of both classical and ML-based mod-                   gical risks and place extra stress on the kidney [12, 14].
+[Cox_Violation]: Comparison to Cox Hazard Model
+failure,                                                                 The RSF model will be compared with a Cox Propor-
+  data = test_data,                                                      tional Hazards regression model to evaluate their predic-
+  thresholds = seq(0, 1, by = 0.
+[Feature_Selection]: The times argument defines the time                      abilities perfectly match the observed probabilities.
+
+--- CoxnamInterpretableDeep_Xu_2023.pdf ---
+[Hybridization_Context]: Then, the
+   Using the loss function 𝑙(𝜃) to train the NAM model through the                       average is weighted to represent the average importance of the feature.
+[Feature_Selection]: The
+is modeled with Lasso regression, which will generate a sparse weight                    baseline survival function can then be estimated as Eq.
+
+--- PredictionGraduateEmployability_R_2024.pdf ---
+[Citation_Ayaneh]: , Ismail, 2011; Tamiru, 2017; Ayaneh et al.
+
+--- WhatMattersFor_Wamba_2015.pdf ---
+[Hybridization_Context]: Linear probability models for positive sign/significance of estimated programme impacts
+                                          (weighted models)
+
+       Panel A: Full sample
+                                                                 Formal                      Hours
+                                                Earnings                    Employment
+                                                              employment                     worked
+     (i) Programme type and time horizon (base: public works, short-run)
+     Training programmes                          0.
+[Feature_Selection]: Galasso et al.
+
+--- ApplicationMachineLearning_Huang_2023.pdf ---
+[Feature_Selection]: For these
+electronic health record data for the development of five       database searches, the search strategy included search
+ML models (penalized regression Ridge, least absolute           terms involving “machine learning,” “survival outcome,”
+shrinkage and selection operator [LASSO], elastic net,          and “real-world database.
+
+--- SurvivalAnalysisHigher_I_2023.pdf ---
+[Hybridization_Context]: In recent years, many excellent optimization methods have been successively proposed,
+                                           which include colony predation algorithm (CPA) [18], Harris hawks optimization (HHO)
+                                           [19], slime mould algorithm (SMA) [20,21], bat algorithm (BA) [22], firefly algorithm (FA)
+                                           [23], sine cosine algorithm (SCA) [24], butterfly optimization algorithm (BOA) [25], ant col-
+                                           ony algorithm for the continuous domain (ACOR) [26], Runge Kutta optimizer (RUN) [27],
+                                           rime optimization algorithm (RIME) [28], weighted mean of vectors (INFO) [29], and hunger
+                                           games search (HGS) [30], chaotic whale optimizer (CWOAII) [31], hybridizing sine cosine
+                                           algorithm with differential evolution (SCADE) [32], chaotic bat algorithm (CBA) [33], a bat
+                                           algorithm based on collaborative and dynamic opposition-based learning (CDLOBA) [34],
+                                           hybrid bat algorithm (RCBA) [35].
+[Feature_Selection]: Excessive family
+                                              interference or lack of family involvement can make career decision-making difficult, leading
+                                              young people to make poor choices based on these interferences [2].
+
+--- SurvivalAnalysisSemi_Andonovikj_2024.pdf ---
+[Hybridization_Context]: So they scale poorly also with                     where 𝐗̄ 𝑘 , and 𝐘̄ 𝑘 are weighted averages defined as:
+input space dimensionality.
+
+--- TransitioningFromThe_Salasvelasco_2024.pdf ---
+[Citation_Salas-Velasco]: Case Report
+Transitioning from the University to the Workplace: A Duration
+Model with Grouped Data
+Manuel Salas-Velasco
+
+
+                                         Facultad de Ciencias Económicas y Empresariales, Campus Cartuja, Universidad de Granada,
+                                         18071 Granada, Spain; msalas@ugr.
+
+--- SurvnamTheMachine_Utkin_2021.pdf ---
+[Hybridization_Context]: The proposed modifications of SurvNAM are based on using the Lasso-based regularization for
+                                               functions from GAM and for a special representation of the GAM functions using their weighted
+                                               linear and non-linear parts, which is implemented as a shortcut connection.
+[Cox_Violation]: One of the popular semi-parametric regression models for analysis of
+survival data, which takes into account features of training examples, is the Cox proportional hazards
+model, which calculates effects of observed covariates (features) on the risk of an event occurring, for
+example, the death or failure [19].
+[Feature_Selection]: The proposed modifications of SurvNAM are based on using the Lasso-based regularization for
+                                               functions from GAM and for a special representation of the GAM functions using their weighted
+                                               linear and non-linear parts, which is implemented as a shortcut connection.
+
+--- SurvivalRegressionWith_Barnwal_2021.pdf ---
+[Hybridization_Context]: Khan and Shaw [27] combined AFT with adaptive and weighted elastic nets to enable variable
+selection from high-dimensional data.
+[Cox_Violation]: Second, the
+AFT model may provide a better fit when proportional hazard assumption does not hold
+[17].
+
+--- Kyklos_Unknownauthor_2025.pdf ---
+[Cox_Violation]: Table 2 summarizes the log rank test for equality of survival
+Where the proportional hazards assumption is not violated, one
+                                                                        functions.
+
+--- SurvivalAnalysisTime_S_2020.pdf ---
+[Hybridization_Context]: infection incidence up to the time step t - 1, weighted by the                              The Rt estimates in the ﬁrst ten days of the COVID-19 pandemic
+infectivity function ws.
+
+--- TeamworkSkillsHigher_Prada_2022.pdf ---
+[Feature_Selection]: Therefore, given the importance of teamwork skills for
+Emphasising this connection is highly important, as              students’ academic performance and future employabil-
+some education systems neglect teamwork due to the               ity, higher education institutions should endeavour to
+consideration that it interferes with academic achieve-          support and develop teamwork skills training from the
+ments (Lau et al.
+
+--- SurvivalPredictionModels_Suresh_2022.pdf ---
+[Hybridization_Context]: regression methods applied directly to the event times
+Boosting       Are an ensemble of base learners that are constructed        is the inclusion of censored observations in the estima-
+               sequentially and are progressively reweighted to increase
+               emphasis on observations with wrong predictions and          tion procedure.
+[Cox_Violation]: Each indi-
+on a proportional hazards assumption for the survival             vidual’s follow-up time is split into a set of pre-specified,
+times that when violated can lead to inaccurate predic-           common time intervals, and their survival status is
+tions.
+[Feature_Selection]: Additionally, can encourage sparsity by        h(t) = h0 (t) exp{βX}, where h0 (t) is the baseline hazard
+               using an 1 penalty (LASSO) to avoid overfitting and         (i.
+
