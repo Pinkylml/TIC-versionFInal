@@ -1,0 +1,17 @@
+{
+  "max_depth": 8,
+  "eta": 0.01,
+  "subsample": 0.8710250204026031,
+  "colsample_bytree": 0.7590312775299762,
+  "min_child_weight": 3.7085382260284576,
+  "aft_loss_distribution": "normal",
+  "aft_loss_distribution_scale": 2.8551127078884506,
+  "reg_lambda": 2.442920226757667,
+  "reg_alpha": 1.425728425527165,
+  "tree_method": "hist",
+  "device": "cuda",
+  "objective": "survival:aft",
+  "eval_metric": "aft-nloglik",
+  "seed": 42,
+  "verbosity": 0
+}

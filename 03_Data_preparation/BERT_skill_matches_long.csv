@@ -1,0 +1,2277 @@
+row_id,phrase,matched_topic,score,accept
+0,hidráulica,"arcgis, qgis",0.5574709177017212,True
+1,control industrial,control de procesos,0.6984515190124512,True
+1,plcs,producción,0.5817228555679321,True
+1,instalaciones eléctricas y potencia.,"distribución eléctrica, generación eléctrica",0.8624044060707092,True
+2,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+2,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+2,estructura de datos y algoritmos,"estructura de datos, estructuras",0.8504514694213867,True
+2,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+3,robótica y todo lo relacionado a plcs,"sensores, sensores remotos",0.508594274520874,True
+4,bases de datos,base de datos,0.9896608591079712,True
+4,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+4,tecnologías de seguriodad,"ciberseguridad, seguridad informática",0.6420289278030396,True
+4,desarrollo de iot,modelado,0.3998038172721863,False
+5,electrónica,"electrónica, electrónica analógica, electrónica digital ...",0.7630320191383362,True
+6,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+6,bases de datos,base de datos,0.9896608591079712,True
+6,gestión de proyectos,planificación de obras,0.7408593893051147,True
+7,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+8,optimización de procesos,"optimización, optimización de procesos",0.9629255533218384,True
+9,gestión de procesos,control de procesos,0.8787543773651123,True
+9,calidad,"caracterización, clasificación",0.5351656675338745,True
+9,logística y distribución,"logística, supply chain",0.8606815338134766,True
+9,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+9,proyectos,planificación de obras,0.7360752820968628,True
+9,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+10,ingeniería en sofware,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.7406880855560303,True
+10,programación web,arquitectura de computadoras,0.6169983148574829,True
+10,datamining,visualización de datos,0.7774026393890381,True
+10,business intelligence,sistemas de información,0.4988950490951538,True
+11,análisis en espacios de banach y de hilbert,"matlab, matplotlib",0.5597612261772156,True
+11,teoría de operadores lineales y acotados,"cálculo, cálculo numérico",0.5071644186973572,True
+11,introducción a la teoría de distribuciones,"distribución eléctrica, generación eléctrica",0.5904465913772583,True
+12,electrónica analogica,"electrónica, electrónica analógica, electrónica digital ...",0.7740262150764465,True
+12,control y sistemas hmi,control de procesos,0.6835587620735168,True
+12,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+13,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+14,tcp,redes,0.549391508102417,True
+15,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+15,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+15,sistemas de vapor,"termodinámica, termodinámica química",0.5138390064239502,True
+15,control de sistemas mecánicos,control de procesos,0.6920318603515625,True
+16,yacimientos minerales y metalogenia,"corrosión, regresión",0.535188615322113,True
+16,geología del petróleo,"modelado ambiental, modelado geológico",0.5564537048339844,True
+16,vulcanologia,"modelado ambiental, modelado geológico",0.49866241216659546,True
+16,geotécnia,"geofísica, geomecánica, geotecnia",0.8564027547836304,True
+17,software seguro,"ciberseguridad, seguridad informática",0.58507239818573,True
+17,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+17,juegos interactivos,"teoría cuántica, teoría de juegos, teoría de números",0.4294775128364563,False
+17,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+17,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+17,sistemas embebidos,sistemas de información,0.6538718938827515,True
+18,desarrollo de aplicaciones web y móviles,"css, desarrollo web, html ...",0.49778807163238525,True
+19,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+20,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+21,aplicaciones estructurales,"cálculo estructural, diseño estructural, geología estructural",0.7142598032951355,True
+22,dinámica,modelado,0.6763759851455688,True
+23,programación plc,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.627251148223877,True
+23,instrumentaciones y redes industriales,redes,0.6602247357368469,True
+24,diseño de proyectos estructurales e hidráulicos,planificación de obras,0.6856154203414917,True
+25,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+25,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+25,procesos de manufactura,producción,0.781731367111206,True
+25,soldadura,"arcgis, qgis",0.6895371675491333,True
+26,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+26,redes ópticas,"fibra óptica, óptica",0.7368940711021423,True
+26,y programación,"matemática aplicada, programación matemática",0.6339701414108276,True
+27,arquitectura de computadores y redes,arquitectura de computadoras,0.8703912496566772,True
+28,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+28,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+28,microeconomía,"macroeconomía, microeconomía",0.868882417678833,True
+28,finanzas y proyectos,"finanzas, mercados financieros",0.6384226679801941,True
+28,estadística multivariante,"cálculo, cálculo numérico",0.5448226928710938,True
+28,técnicas de desición estocastica,"optimización, optimización de procesos",0.6478503942489624,True
+28,teoría de juegos,"teoría cuántica, teoría de juegos, teoría de números",0.691335916519165,True
+28,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+29,redes industriales,redes,0.7059162855148315,True
+29,automatización con plcs,arquitectura de computadoras,0.5792226791381836,True
+29,álgebra,"cálculo, cálculo numérico",0.7535038590431213,True
+29,robótica,modelado,0.5180343389511108,True
+29,sistemas microprocesados,control de procesos,0.45995572209358215,True
+29,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+30,programación en general,"matemática aplicada, programación matemática",0.6256557703018188,True
+31,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+31,aplicaciones web 1 y 2,"css, desarrollo web, html ...",0.5228114128112793,True
+31,bases de datos.,base de datos,0.9761388301849365,True
+32,redes,redes,1.0,True
+32,programación 1 y 2,"matemática aplicada, programación matemática",0.5727134943008423,True
+32,ciberseguridad,"ciberseguridad, seguridad informática",0.9461658000946045,True
+32,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+32,mecánica,"mecánica clásica, mecánica de materiales",0.7974467277526855,True
+33,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+34,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+34,usabilidad,modelado,0.6253300905227661,True
+34,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+34,auditoría,base de datos,0.6174631714820862,True
+34,hci,"gis, git",0.5477767586708069,True
+35,base de datos distribuidas y no distribuidas,base de datos,0.6078116297721863,True
+35,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+35,algoritmos,modelado,0.5743851065635681,True
+35,modelados,modelado,0.9903634786605835,True
+36,programación 1,"matemática aplicada, programación matemática",0.5714410543441772,True
+36,2 e inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6541333198547363,True
+37,programación 2,"matemática aplicada, programación matemática",0.5567651987075806,True
+37,fundamentos de bases de datos,base de datos,0.9258902072906494,True
+37,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+37,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+37,automatización de procesos,control de procesos,0.7292710542678833,True
+38,logística,"logística, supply chain",0.8192185163497925,True
+38,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+38,procesos productivos,producción,0.7333611249923706,True
+39,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+39,aplicaciones web avanzadas,arquitectura de computadoras,0.5563191771507263,True
+39,desarrollo de software seguro,"ciberseguridad, seguridad informática",0.6014102697372437,True
+39,bases de datos,base de datos,0.9896608591079712,True
+39,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+40,metrología,"cartografía, topografía",0.6982171535491943,True
+40,transferencia de calor aplicada,"tratamiento de aguas, tratamientos térmicos",0.6390252709388733,True
+40,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+40,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+40,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+40,ingeniería de mantenimiento,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6188693046569824,True
+40,desgaste y falla,"react, revit",0.6320240497589111,True
+40,ventilación y aire acondicionado,"tratamiento de aguas, tratamientos térmicos",0.4336140751838684,False
+40,materiales compuestos,"mecánica clásica, mecánica de materiales",0.6556905508041382,True
+40,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+41,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+41,tecnologías de la seguridad,"ciberseguridad, seguridad informática",0.7075523138046265,True
+41,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+42,computación distribuida,"modelado de datos, modelado matemático",0.5302181839942932,True
+42,inteligencia artificial (solo con henry paz),"deep learning, inteligencia artificial, machine learning",0.6481324434280396,True
+42,poo,"arcgis, qgis",0.620733380317688,True
+43,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+43,hidrología,"modelado de reservorios, reservorios",0.647415816783905,True
+43,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+43,estructuras,"cálculo estructural, diseño estructural, geología estructural",0.729766845703125,True
+43,vías,redes,0.5896021723747253,True
+43,hidráulica,"arcgis, qgis",0.5574709177017212,True
+44,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+45,redes ópticas,"fibra óptica, óptica",0.7368940711021423,True
+45,antenas,"aws, wireless",0.45121702551841736,True
+45,sistemas celulares,redes neuronales,0.5233328342437744,True
+45,microondas,"mecánica clásica, mecánica de materiales",0.3746170401573181,False
+45,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+46,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+46,finanzas internacionales y macroeconomía,"comercio exterior, economía internacional",0.696906566619873,True
+47,diseño hidráulico y diseño estructural,"cálculo estructural, diseño estructural, geología estructural",0.6662907600402832,True
+48,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+49,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+49,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+50,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+50,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+50,arquitectura de computadores,arquitectura de computadoras,0.9996210336685181,True
+51,fundamentos de programación,arquitectura de computadoras,0.6592116951942444,True
+51,poo. base de datos,base de datos,0.8038726449012756,True
+51,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+51,fundamentos de ingeniería en software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7873289585113525,True
+51,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+51,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+51,verificación y validación software,base de datos,0.3510633707046509,False
+51,hci,"gis, git",0.5477767586708069,True
+51,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+51,usabilidad y accesibilidad,protocolos de comunicación,0.5244004130363464,True
+51,desarrollo de software seguro,"ciberseguridad, seguridad informática",0.6014102697372437,True
+51,estructuras de datos y algoritmos,"estructura de datos, estructuras",0.8640744686126709,True
+51,inteligencia de negocios,"administración de empresas, gestión de calidad, gestión de datos ...",0.49222123622894287,True
+52,poo,"arcgis, qgis",0.620733380317688,True
+52,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+52,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+53,sep,"arcgis, qgis",0.7830688953399658,True
+53,instalaciones de medio voltaje,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7400677800178528,True
+53,distribución,"distribución eléctrica, generación eléctrica",0.6035887002944946,True
+54,mci,redes,0.6780778169631958,True
+54,sistemas automotrices,control de procesos,0.47774243354797363,True
+54,dinámica,modelado,0.6763759851455688,True
+54,estática,"arcgis, qgis",0.7713803052902222,True
+54,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+54,diseño mecánico,"mecánica clásica, mecánica de materiales",0.7482469081878662,True
+54,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+54,ingeniería de soldadura,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6450775861740112,True
+54,ingeniería financiera.,"finanzas, mercados financieros",0.6721541881561279,True
+55,desarrollo en java,producción,0.5387276411056519,True
+56,redes,redes,1.0,True
+56,cloud,redes,0.4317736029624939,False
+56,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+57,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+57,balance de masa,balances de materia y energía,0.7150654792785645,True
+57,balance de energía,balances de materia y energía,0.8684008121490479,True
+57,tecnología de alimentos,procesamiento de alimentos,0.7509098052978516,True
+57,bioingeniería y simulación de procesos agroindustriales,"agroindustria, agronomía",0.6641501188278198,True
+58,hci,"gis, git",0.5477767586708069,True
+58,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+58,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+58,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+58,bases de datos 1 y 2,base de datos,0.8225523829460144,True
+59,tecnologías de la seguridad,"ciberseguridad, seguridad informática",0.7075523138046265,True
+60,aplicaciones computacionales,"matemática aplicada, programación matemática",0.6351206302642822,True
+60,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+60,hormigón,"arcgis, qgis",0.6921799778938293,True
+60,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+60,diseño de proyectos,planificación de obras,0.7884756326675415,True
+61,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+61,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+61,economía pública,"econometría, modelos econométricos",0.5721315145492554,True
+62,resistencia de materiales,"corrosión, regresión",0.60728520154953,True
+62,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+62,puentes,"cálculo estructural, diseño estructural, geología estructural",0.4240013360977173,False
+62,diseño de estructuras,"cálculo estructural, diseño estructural, geología estructural",0.7639554142951965,True
+62,sísmica,"modelado ambiental, modelado geológico",0.4695852994918823,True
+63,ing de alimentos,procesamiento de alimentos,0.8107041120529175,True
+63,análisis instrumental,"instrumentación, instrumentación científica",0.7224893569946289,True
+63,bioingeniería,"agroindustria, agronomía",0.520946204662323,True
+63,agroindustrias,"agroindustria, agronomía",0.8851630687713623,True
+64,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+64,gestión empresarial,"administración de empresas, gestión de calidad, gestión de datos ...",0.6567891836166382,True
+64,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+65,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+66,mapas geológicos,"cartografía, topografía",0.8193812370300293,True
+66,mineralogía óptica,"fibra óptica, óptica",0.6149430274963379,True
+66,geología estructural,"cálculo estructural, diseño estructural, geología estructural",0.8457655906677246,True
+66,geología del ecuador.,"geofísica, geomecánica, geotecnia",0.6404867172241211,True
+67,protecciones,control de plagas,0.5710272789001465,True
+67,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+67,estabilidad de sep,"matlab, matplotlib",0.5084019899368286,True
+68,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+68,bases de datos,base de datos,0.9896608591079712,True
+69,gestión de sistemas productivos,control de procesos,0.6862140893936157,True
+69,sistemas cad,sistemas de información,0.4840623140335083,True
+69,cam,"arcgis, qgis",0.6961306929588318,True
+69,diseño del trabajo y layout,planificación de obras,0.6177111864089966,True
+69,evaluación integrada de la producción,producción,0.7244710326194763,True
+69,comportamiento humano de las organizaciones,"administración de empresas, gestión de calidad, gestión de datos ...",0.4558273255825043,True
+69,simulación análisis y diseño,"simulación, simulación de procesos",0.8759752511978149,True
+69,programación de la producción,producción,0.8597139120101929,True
+69,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+69,métodos determinísticos para la producción,planificación de la producción,0.7328176498413086,True
+70,data mining,visualización de datos,0.6735717058181763,True
+70,software,arquitectura de computadoras,0.5785545706748962,True
+70,cisco,"arcgis, qgis",0.6594915986061096,True
+71,eia,"arcgis, qgis",0.7178841829299927,True
+71,ordenamiento territorial,"arcgis, qgis",0.4704749882221222,True
+71,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+71,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+71,aire y suelo.,"arcgis, qgis",0.4828951358795166,True
+72,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+73,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+73,bases de datos,base de datos,0.9896608591079712,True
+73,gestión de proyectos,planificación de obras,0.7408593893051147,True
+74,instalación de media y baja tension,"mecánica clásica, mecánica de materiales",0.4368678629398346,False
+74,control electromecánica,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.58572918176651,True
+74,control hmi,control de procesos,0.6667197346687317,True
+74,electrónica digital,"electrónica, electrónica analógica, electrónica digital ...",0.755425214767456,True
+74,refrigeración,producción,0.4683789014816284,True
+74,fluidos de trasmision de potencia,"distribución eléctrica, generación eléctrica",0.6703497767448425,True
+75,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+75,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+75,bases de datos,base de datos,0.9896608591079712,True
+75,gestión de proyectos,planificación de obras,0.7408593893051147,True
+75,desarrollo de aplicaciones web.,"css, desarrollo web, html ...",0.6112929582595825,True
+76,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+76,desarrollo de software seguro,"ciberseguridad, seguridad informática",0.6014102697372437,True
+76,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+76,ingeniería de software y requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7432074546813965,True
+76,metodologías ágiles.,"optimización, optimización de procesos",0.6399454474449158,True
+77,redes industriales,redes,0.7059162855148315,True
+77,scada,"arcgis, qgis",0.6555919647216797,True
+77,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+78,metodología de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6674560904502869,True
+78,bases de datos,base de datos,0.9896608591079712,True
+78,desarrollo de aplicaciones móviles,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.3864196240901947,False
+78,diseño de interfaz,arquitectura de computadoras,0.6178098917007446,True
+78,desarrollo de páginas web,"css, desarrollo web, html ...",0.6912655830383301,True
+79,laboratorio,"instrumentación, instrumentación científica",0.5728487968444824,True
+80,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+80,hidráulica,"arcgis, qgis",0.5574709177017212,True
+80,técnicas de potabilización,"optimización, optimización de procesos",0.5683127641677856,True
+81,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+81,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+81,algoritmos,modelado,0.5743851065635681,True
+81,desarrollo móvil,protocolos de comunicación,0.4053880572319031,False
+81,base de datos,base de datos,0.9999999403953552,True
+81,gestión de proyectos,planificación de obras,0.7408593893051147,True
+81,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+82,procesos,control de procesos,0.7481175661087036,True
+82,proyectos,planificación de obras,0.7360752820968628,True
+82,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+82,optimización,"optimización, optimización de procesos",0.8372970819473267,True
+82,planificación de la producción,planificación de la producción,1.0,True
+83,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+83,tics,"arcgis, qgis",0.62263423204422,True
+83,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+83,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+84,hidráulica,"arcgis, qgis",0.5574709177017212,True
+84,tratamiento de agua,"tratamiento de aguas, tratamientos térmicos",0.8051800727844238,True
+84,topografía,"cartografía, topografía",0.8270922899246216,True
+85,bases de datos,base de datos,0.9896608591079712,True
+85,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+85,dessarrollo de aplicaciones web,"ciberseguridad, seguridad informática",0.5270401239395142,True
+86,hormigón vigas,"arcgis, qgis",0.7427262663841248,True
+86,hormigón columunas,"arcgis, qgis",0.6847107410430908,True
+86,fiscalización,producción,0.6062955260276794,True
+86,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+86,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+86,ofimática,"arcgis, qgis",0.7670031785964966,True
+86,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+86,hidráulica aplicada,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5185893774032593,True
+86,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+86,diseño de proyectos estructurales.,planificación de obras,0.738813042640686,True
+87,gestio,"arcgis, qgis",0.7674516439437866,True
+87,n de tecnologías de la información,sistemas de información,0.7863588333129883,True
+87,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+87,redes de computadores,redes,0.7819903492927551,True
+87,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+87,comunicación oral y escrita,procesamiento de lenguaje natural,0.573535680770874,True
+88,cálculo diferencial e integral,"cálculo, cálculo numérico",0.6759433746337891,True
+88,análisis vectorial,"cálculo, cálculo numérico",0.500688910484314,True
+88,edp y análisis de fourier,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.4552803635597229,True
+88,mecánica cuántica i y ii,"teoría cuántica, teoría de juegos, teoría de números",0.6521714925765991,True
+88,mecánica estadística,"cálculo, cálculo numérico",0.581350564956665,True
+88,física computacional y física del estado sólido,"mecánica clásica, mecánica de materiales",0.6268542408943176,True
+89,base de datos,base de datos,0.9999999403953552,True
+89,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+89,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+89,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+90,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+90,aplicación web y móvil,"css, desarrollo web, html ...",0.4073443114757538,False
+91,comunicación digital,protocolos de comunicación,0.7232424020767212,True
+92,networking,redes,0.8166965246200562,True
+93,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+94,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+94,programación avanzada,arquitectura de computadoras,0.6159157752990723,True
+94,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+94,aplicaciones y servicios para internet,sistemas de información,0.496796190738678,True
+94,wan,"gis, git",0.7110801339149475,True
+94,lan,"arcgis, qgis",0.6850255727767944,True
+94,almacenamiento de datos,sistemas de información,0.5728034973144531,True
+94,iot,"arcgis, qgis",0.7635585069656372,True
+95,propagación y antenas,"aws, wireless",0.4856611490249634,True
+95,sistemas celulares,redes neuronales,0.5233328342437744,True
+95,comunicación digital,protocolos de comunicación,0.7232424020767212,True
+95,telemática básica,protocolos de comunicación,0.5891638994216919,True
+96,centrales de generación,"distribución eléctrica, generación eléctrica",0.6375195980072021,True
+96,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+96,análisis de sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.7813255190849304,True
+96,accionamiento de máquinas,control de procesos,0.6190897226333618,True
+96,control industrial,control de procesos,0.6984515190124512,True
+97,materiales de construcción,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6778041124343872,True
+97,hormigón 1 y 2,"matlab, matplotlib",0.6108849048614502,True
+97,fiscalización,producción,0.6062955260276794,True
+97,construcciones civiles.,planificación de obras,0.5429099798202515,True
+98,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+99,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+99,introducción a protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8286547064781189,True
+99,calidad de energía eléctrica,"distribución eléctrica, generación eléctrica",0.7844178080558777,True
+99,control industrial,control de procesos,0.6984515190124512,True
+100,ofimática,"arcgis, qgis",0.7670031785964966,True
+100,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+100,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+100,inglés,"arcgis, qgis",0.6209578514099121,True
+100,sistemas embebidos,sistemas de información,0.6538718938827515,True
+100,fundamentos de seguridad telefonía ip,"ciberseguridad, seguridad informática",0.6428272128105164,True
+100,diseño de proyectos,planificación de obras,0.7884756326675415,True
+100,introducción al diseño de redes,redes,0.6892775297164917,True
+100,prácticas laborales,planificación de obras,0.5255963802337646,True
+101,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+101,microondas,"mecánica clásica, mecánica de materiales",0.3746170401573181,False
+101,telefonía ip,"telefonía ip, voz sobre ip",0.8031413555145264,True
+102,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+102,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+102,macroecomia,"macroeconomía, microeconomía",0.6473242044448853,True
+103,gestión de residuos,control de procesos,0.42981258034706116,False
+103,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+103,contaminación del suelo,"legislación ambiental, normas ambientales",0.5937265157699585,True
+103,ecología,"modelado ambiental, modelado geológico",0.595412015914917,True
+103,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+104,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+105,balance de energía,balances de materia y energía,0.8684008121490479,True
+105,fenómenos de transporte (calor,"termodinámica, termodinámica química",0.4580409526824951,True
+105,masa y fluidos),"modelado de reservorios, reservorios",0.5564402341842651,True
+105,modelado y control automático,modelado,0.6897774934768677,True
+106,tecnología de alimentos,procesamiento de alimentos,0.7509098052978516,True
+107,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+107,iot,"arcgis, qgis",0.7635585069656372,True
+107,sistemas embebidos,sistemas de información,0.6538718938827515,True
+107,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+107,bases de datos,base de datos,0.9896608591079712,True
+107,minería de datos,base de datos,0.6922689080238342,True
+108,gestión de residuos sólidos municipales,"legislación ambiental, normas ambientales",0.4128134846687317,False
+108,gestión de residuos peligrosos,"corrosión, regresión",0.4367390275001526,False
+108,balance de masa,balances de materia y energía,0.7150654792785645,True
+108,seguridad y salud ocupacional,"ciberseguridad, seguridad informática",0.46769973635673523,True
+109,sistemas de control y hmi,control de procesos,0.6729439496994019,True
+109,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+109,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+110,machine learning,"deep learning, inteligencia artificial, machine learning",0.75099778175354,True
+110,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+111,mecánica clásica i,"mecánica clásica, mecánica de materiales",0.9067414999008179,True
+111,mecánica clásica ii,"mecánica clásica, mecánica de materiales",0.8918975591659546,True
+111,mecánica cuántica,"teoría cuántica, teoría de juegos, teoría de números",0.6292116641998291,True
+111,complementos de mecánica cuántica,"teoría cuántica, teoría de juegos, teoría de números",0.6161060929298401,True
+111,programación científica,"instrumentación, instrumentación científica",0.6571065783500671,True
+112,diseño de trabajo y layout,planificación de obras,0.6222469806671143,True
+112,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+112,gestión de sistemas productivos,control de procesos,0.6862140893936157,True
+113,hormigón,"arcgis, qgis",0.6921799778938293,True
+113,aceros,"arcgis, qgis",0.866644024848938,True
+114,seguridad,"ciberseguridad, seguridad informática",0.6808546185493469,True
+114,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+114,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+115,sistemas celulares,redes neuronales,0.5233328342437744,True
+115,sistemas inalámbricos,"aws, wireless",0.7100185751914978,True
+115,fundamentos de seguridad,"ciberseguridad, seguridad informática",0.7649610638618469,True
+115,lan,"arcgis, qgis",0.6850255727767944,True
+115,wan,"gis, git",0.7110801339149475,True
+116,redes,redes,1.0,True
+116,comunicaciones ópticas,"fibra óptica, óptica",0.6750285625457764,True
+117,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+117,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+117,microeconomía,"macroeconomía, microeconomía",0.868882417678833,True
+117,finanzas.,"finanzas, mercados financieros",0.8495044112205505,True
+118,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+118,microeconomía,"macroeconomía, microeconomía",0.868882417678833,True
+118,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+119,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+119,dinámica,modelado,0.6763759851455688,True
+119,vibraciones,"mecánica clásica, mecánica de materiales",0.46636542677879333,True
+119,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+120,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+120,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+120,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+120,política económica,"econometría, modelos econométricos",0.6936944723129272,True
+120,micro y macroeconomía,"macroeconomía, microeconomía",0.9558783769607544,True
+121,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+121,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+121,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+121,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+122,comunicaciones inalámbricas,protocolos de comunicación,0.7736287117004395,True
+123,programación y buisnes,"matemática aplicada, programación matemática",0.6634466648101807,True
+124,construcciones civiles,planificación de obras,0.5933632850646973,True
+124,fiscalización,producción,0.6062955260276794,True
+124,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+124,estructuras,"cálculo estructural, diseño estructural, geología estructural",0.729766845703125,True
+124,alcantarillado urbano,"modelado de reservorios, reservorios",0.5701342821121216,True
+124,hidráulica aplicada,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5185893774032593,True
+124,agua potable,"tratamiento de aguas, tratamientos térmicos",0.66560959815979,True
+124,diseño de vías y pavimentos,"cartografía, topografía",0.5587821006774902,True
+124,mecánica de suelos y cimentaciones,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6477092504501343,True
+124,hormigón.,"arcgis, qgis",0.7807778120040894,True
+125,mecánica lagrangiana y hamiltoniana,"mecánica clásica, mecánica de materiales",0.7246477603912354,True
+125,electrodinámica,"electrónica, electrónica analógica, electrónica digital ...",0.687630295753479,True
+125,mecánica cuántica.,"teoría cuántica, teoría de juegos, teoría de números",0.6411517858505249,True
+126,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+126,calidad energética,"energía renovable, sustentabilidad, trazabilidad",0.6764962673187256,True
+126,modelación de sistemas de potencia,"distribución eléctrica, generación eléctrica",0.5921992659568787,True
+126,estudios de estado estacionario,"caracterización, clasificación",0.6036431789398193,True
+126,estabilidad,"react, revit",0.48126304149627686,True
+126,confiabilidad,"ciberseguridad, seguridad informática",0.47116225957870483,True
+126,control industrial,control de procesos,0.6984515190124512,True
+127,física,modelado,0.679757833480835,True
+128,construcciones civiles,planificación de obras,0.5933632850646973,True
+128,costos de la construcción,"costos, costos industriales",0.7317941188812256,True
+128,fiscalización,producción,0.6062955260276794,True
+128,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+128,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+129,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+129,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+129,microeconomía,"macroeconomía, microeconomía",0.868882417678833,True
+129,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+130,balance de masa,balances de materia y energía,0.7150654792785645,True
+130,balance de energía,balances de materia y energía,0.8684008121490479,True
+130,química analítica,"termodinámica, termodinámica química",0.576936662197113,True
+130,química general,"termodinámica, termodinámica química",0.5353778600692749,True
+130,química industrial,"corrosión, regresión",0.5250796675682068,True
+131,intranet,redes,0.6260466575622559,True
+132,gestión de proyectos,planificación de obras,0.7408593893051147,True
+133,procesos,control de procesos,0.7481175661087036,True
+134,gestión de proyectos,planificación de obras,0.7408593893051147,True
+135,redes,redes,1.0,True
+135,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+135,auditoría informática,base de datos,0.6580346822738647,True
+136,costos,"costos, costos industriales",0.7708151340484619,True
+136,fiscalización,producción,0.6062955260276794,True
+136,proyectos estructurales,planificación de obras,0.7296202182769775,True
+136,aplicaciones computacionales,"matemática aplicada, programación matemática",0.6351206302642822,True
+138,antenas,"aws, wireless",0.45121702551841736,True
+139,análisis en espacios de banach y de hilbert,"matlab, matplotlib",0.5597612261772156,True
+139,teoría de operadores acotados (y no acotados),"teoría cuántica, teoría de juegos, teoría de números",0.506758987903595,True
+139,ecuaciones diferenciales parciales elípticas,"cálculo, cálculo numérico",0.31792792677879333,False
+139,topología,"cartografía, topografía",0.6657002568244934,True
+139,introducción a la teoría de distribuciones.,"distribución eléctrica, generación eléctrica",0.5872087478637695,True
+140,sistemas celulares,redes neuronales,0.5233328342437744,True
+140,redes ópticas,"fibra óptica, óptica",0.7368940711021423,True
+141,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+142,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+142,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+142,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+142,construcciones civiles,planificación de obras,0.5933632850646973,True
+142,planificación y control de obra,planificación de obras,0.8052704334259033,True
+142,mecánica de suelos y cimentaciones y todas las anteriores a estas.,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6810258626937866,True
+143,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+143,ordenamiento territorial,"arcgis, qgis",0.4704749882221222,True
+143,sig,"arcgis, qgis",0.7662829160690308,True
+143,tratamiento de agua,"tratamiento de aguas, tratamientos térmicos",0.8051800727844238,True
+143,gestión de residuos sólidos y peligrosos,"corrosión, regresión",0.4437125325202942,False
+144,gestión de residuos,control de procesos,0.42981258034706116,False
+144,depuración,"react, revit",0.5062828063964844,True
+144,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+144,ecotoxicología,"legislación ambiental, normas ambientales",0.501553475856781,True
+145,programación avanzada,arquitectura de computadoras,0.6159157752990723,True
+145,redes e intranets,redes,0.7340162992477417,True
+145,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+145,hacking ético,"ciberseguridad, seguridad informática",0.6604506373405457,True
+145,bases de datos,base de datos,0.9896608591079712,True
+146,celulares,redes,0.4768982529640198,True
+147,automatización plcs,arquitectura de computadoras,0.5923852324485779,True
+147,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+147,redes industriales,redes,0.7059162855148315,True
+147,robótica,modelado,0.5180343389511108,True
+148,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+148,sistemas de información geográfica,sistemas de información,0.6849397420883179,True
+148,agua potable y alcantarillado,"modelado de reservorios, reservorios",0.6302793622016907,True
+148,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+148,depuración y laboratorio,"instrumentación, instrumentación científica",0.5431395769119263,True
+148,seguridad y salud ocupacional,"ciberseguridad, seguridad informática",0.46769973635673523,True
+149,econometría i,"econometría, modelos econométricos",0.8913449048995972,True
+149,ii y aplicada,"arcgis, qgis",0.6820447444915771,True
+149,microeconomía i y ii,"macroeconomía, microeconomía",0.8732141256332397,True
+149,macroeconomía i y ii,"macroeconomía, microeconomía",0.8503795862197876,True
+149,teoría de juegos,"teoría cuántica, teoría de juegos, teoría de números",0.691335916519165,True
+149,muestreo,"arcgis, qgis",0.6578177809715271,True
+149,análisis multivariante,"cálculo, cálculo numérico",0.5067830681800842,True
+149,teoría monetaria,"finanzas, mercados financieros",0.6381790637969971,True
+149,fiananzas,redes,0.46453729271888733,True
+149,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+149,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+149,cálculo integral,"cálculo, cálculo numérico",0.7130270004272461,True
+149,cálculo en varias variables,"cálculo, cálculo numérico",0.7223801612854004,True
+149,investigación operativa,modelado,0.5857973098754883,True
+150,introducción a la teoría de campos,"teoría cuántica, teoría de juegos, teoría de números",0.5220010280609131,True
+150,física de materiales,"mecánica clásica, mecánica de materiales",0.806633710861206,True
+150,introducción a los sistemas complejos,sistemas de información,0.547026515007019,True
+150,mecánica cuántica.,"teoría cuántica, teoría de juegos, teoría de números",0.6411517858505249,True
+151,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+151,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+151,business intelligence,sistemas de información,0.4988950490951538,True
+151,redes,redes,1.0,True
+151,fundamentos de matemáticas,"matemática aplicada, programación matemática",0.8483471274375916,True
+152,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+152,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+152,política económica,"econometría, modelos econométricos",0.6936944723129272,True
+152,teoría monetaria,"finanzas, mercados financieros",0.6381790637969971,True
+152,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+153,telemática básica,protocolos de comunicación,0.5891638994216919,True
+153,telemática avanzada,redes,0.603182315826416,True
+153,programación avanzada y fundamentos de la seguridad.,"ciberseguridad, seguridad informática",0.6894969940185547,True
+154,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+154,balance de energía,balances de materia y energía,0.8684008121490479,True
+154,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+155,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+155,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+155,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+156,desarrollo de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6426692008972168,True
+157,costos,"costos, costos industriales",0.7708151340484619,True
+157,fiscalización,producción,0.6062955260276794,True
+157,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+157,resistencia de materiales,"corrosión, regresión",0.60728520154953,True
+157,hormigón,"arcgis, qgis",0.6921799778938293,True
+157,losas,"arcgis, qgis",0.7969328165054321,True
+157,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+157,financiera,"finanzas, mercados financieros",0.8017802834510803,True
+158,fundamentos de inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.719247579574585,True
+158,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+158,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+159,control industrial,control de procesos,0.6984515190124512,True
+159,automatización utilizando plcs,arquitectura de computadoras,0.5855941772460938,True
+159,control automático,control de procesos,0.6811832189559937,True
+159,redes industriales,redes,0.7059162855148315,True
+160,química industrial,"corrosión, regresión",0.5250796675682068,True
+160,química analítica,"termodinámica, termodinámica química",0.576936662197113,True
+160,análisis instrumental,"instrumentación, instrumentación científica",0.7224893569946289,True
+160,seguridad industrial y salud ocupacional,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.4573787450790405,True
+160,mecánica de fluidos i unidad profesional 1 25,"mecánica clásica, mecánica de materiales",0.6076351404190063,True
+160,00 a a 47 2022-aiqmd533transferencia de calo,"termodinámica, termodinámica química",0.38307985663414,False
+160,transferencia de masa y calor,procesamiento de alimentos,0.5785771608352661,True
+160,fisicoquímica,"termodinámica, termodinámica química",0.6175051331520081,True
+160,operaciones unitarias,"cálculo, cálculo numérico",0.6144552826881409,True
+160,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+161,muestreo,"arcgis, qgis",0.6578177809715271,True
+161,química,"termodinámica, termodinámica química",0.5813360810279846,True
+161,proyecto hidráulicos,"modelado de reservorios, reservorios",0.6176080107688904,True
+161,hidráulica,"arcgis, qgis",0.5574709177017212,True
+161,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+161,abastecimiento y distribución del agua,"modelado de reservorios, reservorios",0.5431469678878784,True
+161,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+162,formulación y evaluación de proyectos e instrumentación industrial,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6801093220710754,True
+163,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+164,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+164,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+164,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+164,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+164,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+165,redes de área extendida,redes,0.7014405727386475,True
+165,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+165,hacking ético,"ciberseguridad, seguridad informática",0.6604506373405457,True
+166,aseguramiento de la calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.5038336515426636,True
+166,ingeniería en alimentos,procesamiento de alimentos,0.8062819242477417,True
+166,microbiología,"macroeconomía, microeconomía",0.4226949214935303,False
+166,agrocomercio,"agroindustria, agronomía",0.8821256160736084,True
+166,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+166,análisis instrumental y de alimentos,procesamiento de alimentos,0.7699670791625977,True
+167,cálculo en una variable,"cálculo, cálculo numérico",0.6872897148132324,True
+167,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+167,programación 1,"matemática aplicada, programación matemática",0.5714410543441772,True
+167,programación 2,"matemática aplicada, programación matemática",0.5567651987075806,True
+167,fundamentos de bases de datos,base de datos,0.9258902072906494,True
+167,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+167,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+167,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+167,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+167,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+168,balance de masa,balances de materia y energía,0.7150654792785645,True
+168,balance de energía,balances de materia y energía,0.8684008121490479,True
+169,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+169,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+169,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+169,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+170,estadística para la mejora de la calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.5133723020553589,True
+170,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+170,programación de la producción,producción,0.8597139120101929,True
+170,evaluación integrada de la producción,producción,0.7244710326194763,True
+171,inteligente artificial,modelado,0.5901497006416321,True
+171,matching learning,"aprendizaje no supervisado, aprendizaje supervisado",0.4605731666088104,True
+172,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+173,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+173,sistemas complejos,sistemas de información,0.5513184070587158,True
+174,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+174,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+174,fiscalización en la construcción,planificación de obras,0.7116650342941284,True
+174,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+174,topografía,"cartografía, topografía",0.8270922899246216,True
+175,gestión por procesos,control de procesos,0.8682327270507812,True
+176,suelos,"arcgis, qgis",0.6162129640579224,True
+176,hidráulicos,"modelado de reservorios, reservorios",0.5822129249572754,True
+177,inteligencia artificial y aprendizaje autónomo,"deep learning, inteligencia artificial, machine learning",0.7953875064849854,True
+177,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+177,bases de datos,base de datos,0.9896608591079712,True
+178,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+178,tecnologías de la seguridad,"ciberseguridad, seguridad informática",0.7075523138046265,True
+178,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+179,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+179,bases de datos,base de datos,0.9896608591079712,True
+180,todas las materias tienen un enfoque obsoleto,"mecánica clásica, mecánica de materiales",0.418600469827652,False
+180,enfocado en el siglo pasado. los itinerarios son los únicos interesantes pero deberían ampliarse,"geofísica, geomecánica, geotecnia",0.3600809872150421,False
+181,gestión de procesos de calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7078771591186523,True
+181,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+181,modelado y control automático y mecánica de fluidos,control de procesos,0.5273851156234741,True
+182,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+182,sistemas de control automático,control de procesos,0.7047598361968994,True
+182,plcs,producción,0.5817228555679321,True
+182,sistemas scada,sistemas de información,0.6382986307144165,True
+183,redes de computadoras,redes,0.78403639793396,True
+183,seguridad informática,"ciberseguridad, seguridad informática",0.8730366230010986,True
+184,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+184,energías renovables,"energía renovable, sustentabilidad, trazabilidad",0.8467122316360474,True
+184,métodos numéricos,"cálculo, cálculo numérico",0.7724143266677856,True
+184,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+185,gestión de sistemas productivos,control de procesos,0.6862140893936157,True
+186,calidad de energía eléctrica,"distribución eléctrica, generación eléctrica",0.7844178080558777,True
+186,dinámica de máquinas eléctricas,"distribución eléctrica, generación eléctrica",0.6505209803581238,True
+186,distribución de redes eléctricas,"distribución eléctrica, generación eléctrica",0.8253481984138489,True
+186,alto voltaje,"distribución eléctrica, generación eléctrica",0.5733407139778137,True
+186,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+186,estabilidad de sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.6921322345733643,True
+186,estudio en estado estacionario de sep,"matlab, matplotlib",0.6020420789718628,True
+186,protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8060835599899292,True
+187,estructuras,"cálculo estructural, diseño estructural, geología estructural",0.729766845703125,True
+188,energías renovables,"energía renovable, sustentabilidad, trazabilidad",0.8467122316360474,True
+189,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+189,muestreo,"arcgis, qgis",0.6578177809715271,True
+189,econometría 1,"econometría, modelos econométricos",0.8326554298400879,True
+189,econometría 2,"econometría, modelos econométricos",0.8253259658813477,True
+189,econometría aplicada,"econometría, modelos econométricos",0.8889732360839844,True
+189,riesgos financieros,"finanzas, mercados financieros",0.6418124437332153,True
+189,instrumentos y derivados,"instrumentación, instrumentación científica",0.7598563432693481,True
+189,teoría de juegos,"teoría cuántica, teoría de juegos, teoría de números",0.691335916519165,True
+189,operativa,"arcgis, qgis",0.6551057696342468,True
+189,gestión organizacional,"administración de empresas, gestión de calidad, gestión de datos ...",0.702958345413208,True
+189,gestión de procesos,control de procesos,0.8787543773651123,True
+190,física experimental,"mecánica clásica, mecánica de materiales",0.6237536668777466,True
+190,física de materiales,"mecánica clásica, mecánica de materiales",0.806633710861206,True
+190,programación científica,"instrumentación, instrumentación científica",0.6571065783500671,True
+190,mecánica estadística,"cálculo, cálculo numérico",0.581350564956665,True
+191,yacimientos 2 y simulación,"simulación, simulación de procesos",0.7753626108169556,True
+192,mantenimiento. energías renovables. diseño.,"energía renovable, sustentabilidad, trazabilidad",0.852582573890686,True
+193,electrodinámica,"electrónica, electrónica analógica, electrónica digital ...",0.687630295753479,True
+194,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+194,sistemas embebidos,sistemas de información,0.6538718938827515,True
+195,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+195,conversores estáticos,"arcgis, qgis",0.6383064389228821,True
+195,control industrial,control de procesos,0.6984515190124512,True
+195,plcs,producción,0.5817228555679321,True
+195,redes industriales,redes,0.7059162855148315,True
+195,sistemas scada,sistemas de información,0.6382986307144165,True
+195,máquinas eléctricas.,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.719989538192749,True
+196,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+196,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+196,construcción del software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.725755512714386,True
+196,programación i,"matemática aplicada, programación matemática",0.6205146312713623,True
+196,programación ii,"matemática aplicada, programación matemática",0.5899453163146973,True
+196,desarollo de software seguro.,"ciberseguridad, seguridad informática",0.6598200798034668,True
+197,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+198,últimos semestres,"matlab, matplotlib",0.4400333762168884,False
+199,física nuclear y de partículas,balances de materia y energía,0.49634966254234314,True
+199,estado sólido,"mecánica clásica, mecánica de materiales",0.569256067276001,True
+199,física de materiales,"mecánica clásica, mecánica de materiales",0.806633710861206,True
+199,física computacional,"matemática aplicada, programación matemática",0.5699098706245422,True
+199,mecánica cuántica,"teoría cuántica, teoría de juegos, teoría de números",0.6292116641998291,True
+200,estructuras de datos y algoritmls,"estructura de datos, estructuras",0.8626605272293091,True
+201,diseño de estructuras,"cálculo estructural, diseño estructural, geología estructural",0.7639554142951965,True
+201,soldaduda,"arcgis, qgis",0.7422624826431274,True
+202,gestión de calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.6930317878723145,True
+202,desechos peligrosos,"corrosión, regresión",0.510983943939209,True
+202,desechos comunes,"matlab, matplotlib",0.5291252732276917,True
+202,estudios de impacto ambiental,"legislación ambiental, normas ambientales",0.6500670909881592,True
+202,gestión de recursos naturales,buenas prácticas agrícolas,0.5615219473838806,True
+202,legislación ambiental.,"legislación ambiental, normas ambientales",0.9545333981513977,True
+203,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+203,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+203,riesgo financiero,"finanzas, mercados financieros",0.6570152044296265,True
+204,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+204,centrales de generación,"distribución eléctrica, generación eléctrica",0.6375195980072021,True
+204,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+204,estabilidad de sep,"matlab, matplotlib",0.5084019899368286,True
+204,operación de sep,"arcgis, qgis",0.5626358985900879,True
+205,gestión de proyectos,planificación de obras,0.7408593893051147,True
+205,plc,producción,0.6153578758239746,True
+205,redes industriales,redes,0.7059162855148315,True
+206,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+206,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+206,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+206,proyectos.,planificación de obras,0.7170315980911255,True
+207,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+207,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+207,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+208,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+209,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+209,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+209,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+210,suelos,"arcgis, qgis",0.6162129640579224,True
+211,fundamentos de bases de datos,base de datos,0.9258902072906494,True
+211,ingeniería de software i y ii,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.814882218837738,True
+211,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+211,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+211,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+211,data mining y machine learning,"deep learning, inteligencia artificial, machine learning",0.7070246934890747,True
+211,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+211,gestión de procesos y calidad.,"administración de empresas, gestión de calidad, gestión de datos ...",0.7436448335647583,True
+212,abastecimiento,"logística, supply chain",0.6361744999885559,True
+213,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+213,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+213,fiscalización,producción,0.6062955260276794,True
+213,costos.,"costos, costos industriales",0.816667914390564,True
+214,desarrollo de aplicaciones web y móvil,"css, desarrollo web, html ...",0.4975473880767822,True
+215,campo,"arcgis, qgis",0.7467026114463806,True
+216,todo relacionado con electricidad,"distribución eléctrica, generación eléctrica",0.7799562215805054,True
+217,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+218,ambiente,modelado,0.659949541091919,True
+219,física,modelado,0.679757833480835,True
+220,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+220,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+220,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+220,dibujo mecánico y cad.,"mecánica clásica, mecánica de materiales",0.6363228559494019,True
+221,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+221,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+221,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+222,dinámica de máquinas,"mecánica clásica, mecánica de materiales",0.5681907534599304,True
+222,operación de sep,"arcgis, qgis",0.5626358985900879,True
+222,dispositivos electrónicos,"electrónica, electrónica analógica, electrónica digital ...",0.7101264595985413,True
+222,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+223,mecánica de suelos básica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.538102388381958,True
+223,mecánica de suelos aplicada y cimentaciones,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6492096781730652,True
+223,hormigón: flexión,"mecánica clásica, mecánica de materiales",0.5465885400772095,True
+223,corte y torsión,"mecánica clásica, mecánica de materiales",0.5754148960113525,True
+223,hormigón columnas,"matlab, matplotlib",0.509515643119812,True
+223,muros de corte y pórticos,"matlab, matplotlib",0.5496317744255066,True
+224,losas,"arcgis, qgis",0.7969328165054321,True
+225,programación ii,"matemática aplicada, programación matemática",0.5899453163146973,True
+225,estructura de datos y algoritmos ii,"estructura de datos, estructuras",0.8187851905822754,True
+225,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+225,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+225,inteligencia artificial y aprendizaje automático,"deep learning, inteligencia artificial, machine learning",0.8259767293930054,True
+226,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+226,suelo y aire,"modelado ambiental, modelado geológico",0.5040631890296936,True
+227,comunicaciones ópticas,"fibra óptica, óptica",0.6750285625457764,True
+227,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+227,antenas,"aws, wireless",0.45121702551841736,True
+228,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+229,redes,redes,1.0,True
+229,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+229,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+229,machine learning,"deep learning, inteligencia artificial, machine learning",0.75099778175354,True
+229,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+229,matemáticas discretas,"cálculo, cálculo numérico",0.7653346657752991,True
+229,algoritmos y estructuras de datos,"estructura de datos, estructuras",0.826972484588623,True
+229,hci,"gis, git",0.5477767586708069,True
+229,bases de datos,base de datos,0.9896608591079712,True
+229,auditoría.,base de datos,0.600470781326294,True
+230,tratamientos de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6557912826538086,True
+230,potabilización,modelado,0.652307391166687,True
+230,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+231,ingeniería de software ii,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7808362245559692,True
+231,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+231,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+231,bases de datos,base de datos,0.9896608591079712,True
+231,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+232,refrigeración,producción,0.4683789014816284,True
+232,trasnferencia de calor,"termodinámica, termodinámica química",0.6148058772087097,True
+232,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+232,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+232,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+233,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+233,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+233,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+233,topografía,"cartografía, topografía",0.8270922899246216,True
+233,estructuras de aceros,"cálculo estructural, diseño estructural, geología estructural",0.7238979935646057,True
+233,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+233,fiscalización en la construcción,planificación de obras,0.7116650342941284,True
+233,instalaciones hidrosanitarias,"modelado de reservorios, reservorios",0.6589396595954895,True
+233,mecánica de suelos i y ii,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.629401445388794,True
+233,hormigón i y ii y losas de hormigón,"matlab, matplotlib",0.7697994709014893,True
+234,programación ii,"matemática aplicada, programación matemática",0.5899453163146973,True
+234,ingeniería de software y de requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7394925951957703,True
+234,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+234,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+234,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+235,física térmica,"termodinámica, termodinámica química",0.6493533253669739,True
+235,física de materiales,"mecánica clásica, mecánica de materiales",0.806633710861206,True
+236,proyectos estructurales,planificación de obras,0.7296202182769775,True
+237,fiscalización,producción,0.6062955260276794,True
+237,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+237,hidrosanitaria,"tratamiento de aguas, tratamientos térmicos",0.635858416557312,True
+238,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+239,base de datos,base de datos,0.9999999403953552,True
+239,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+239,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+239,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+240,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+241,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+241,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+241,mercadotecnia,"marketing, ventas",0.731514036655426,True
+242,eficiencia energética,"energía renovable, sustentabilidad, trazabilidad",0.6492926478385925,True
+242,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+243,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+244,bases de satos,"matlab, matplotlib",0.7768549919128418,True
+244,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+244,minería de datos,base de datos,0.6922689080238342,True
+244,administración de procesos y servicios de ti,control de procesos,0.6658378839492798,True
+245,iot,"arcgis, qgis",0.7635585069656372,True
+245,sistemas inalámbricos,"aws, wireless",0.7100185751914978,True
+245,redes e intranet,redes,0.7381470799446106,True
+245,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+245,lan,"arcgis, qgis",0.6850255727767944,True
+245,wan,"gis, git",0.7110801339149475,True
+245,bases de datos,base de datos,0.9896608591079712,True
+245,desarrollo de software.,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6707621812820435,True
+246,aplicaciones webs,arquitectura de computadoras,0.5402277708053589,True
+246,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+246,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+246,ingeniería de requerimientos,planificación de obras,0.6225506067276001,True
+247,desarrollo de aplicaciones web - tecnologías de la seguridad,"ciberseguridad, seguridad informática",0.6848318576812744,True
+248,todas han sido muy útiles,"matlab, matplotlib",0.4272693991661072,False
+249,aplicaciones computacionales en estructura,arquitectura de computadoras,0.6312050819396973,True
+249,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+249,hormigón armado,"arcgis, qgis",0.4335644841194153,False
+249,fiscalización.,"caracterización, clasificación",0.6231337189674377,True
+250,regularización ambiental,"legislación ambiental, normas ambientales",0.6313172578811646,True
+250,gestión integral de residuos peligrosos,"costos, costos industriales",0.43975961208343506,False
+250,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+250,suelos,"arcgis, qgis",0.6162129640579224,True
+250,remediación de suelos,"modelado ambiental, modelado geológico",0.5032221078872681,True
+250,evaluación de impactos ambientales,"legislación ambiental, normas ambientales",0.6254270076751709,True
+251,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+251,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+252,agua potable y alcantarillado,"modelado de reservorios, reservorios",0.6302793622016907,True
+252,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+252,potabilización del agua,"tratamiento de aguas, tratamientos térmicos",0.6859748363494873,True
+252,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+252,balance de masa y energía,balances de materia y energía,0.9302136898040771,True
+252,depuración,"react, revit",0.5062828063964844,True
+252,residuos sólidos municipales,"corrosión, regresión",0.46805432438850403,True
+252,ecotoxicología,"legislación ambiental, normas ambientales",0.501553475856781,True
+252,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+252,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+253,sistemas cad,sistemas de información,0.4840623140335083,True
+253,cam,"arcgis, qgis",0.6961306929588318,True
+253,procesos industriales,producción,0.6753026247024536,True
+253,diseño de sistemas de producción,planificación de la producción,0.7890459895133972,True
+253,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+254,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+255,redes,redes,1.0,True
+255,comunicación inalámbrica,protocolos de comunicación,0.7823967337608337,True
+256,gestión de proyectos,planificación de obras,0.7408593893051147,True
+257,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+257,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+257,riesgo financiero,"finanzas, mercados financieros",0.6570152044296265,True
+258,transmisión digital,protocolos de comunicación,0.5666756629943848,True
+258,bases de datos,base de datos,0.9896608591079712,True
+258,aplicaciones web y móviles,"css, desarrollo web, html ...",0.43286222219467163,False
+258,almacenamiento y procesamiento de datos,"estructura de datos, estructuras",0.5657448768615723,True
+258,hacking ético,"ciberseguridad, seguridad informática",0.6604506373405457,True
+258,lan,"arcgis, qgis",0.6850255727767944,True
+258,wan,"gis, git",0.7110801339149475,True
+258,sistemas inalámbricos,"aws, wireless",0.7100185751914978,True
+258,administración de procesos y servicios de ti,control de procesos,0.6658378839492798,True
+259,diseño estructural,"cálculo estructural, diseño estructural, geología estructural",0.7812689542770386,True
+259,diseño hidráulico,"modelado de reservorios, reservorios",0.6326714754104614,True
+260,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+260,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+260,sep,"arcgis, qgis",0.7830688953399658,True
+261,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+261,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+262,hacking ético,"ciberseguridad, seguridad informática",0.6604506373405457,True
+262,administración de procesos,control de procesos,0.8563985228538513,True
+262,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+262,redes e intranets,redes,0.7340162992477417,True
+262,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+262,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+262,seguridad en redes,"ciberseguridad, seguridad informática",0.7493157982826233,True
+262,sistemas iot,sistemas de información,0.6865740418434143,True
+262,enrutamiento,"arcgis, qgis",0.6387899518013,True
+262,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+263,aplicaciones distrubuidas,arquitectura de computadoras,0.3867507576942444,False
+263,redes e intranets,redes,0.7340162992477417,True
+263,wlan,"arcgis, qgis",0.6749736070632935,True
+264,estadística aplicada,"cálculo, cálculo numérico",0.5729522705078125,True
+264,gestión de proceso y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7149211168289185,True
+264,administración de operaciones,control de procesos,0.6296025514602661,True
+264,gestión de proyectos,planificación de obras,0.7408593893051147,True
+264,control estadístico de la calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.49088189005851746,True
+264,logística,"logística, supply chain",0.8192185163497925,True
+264,cadena de suminstro,"matlab, matplotlib",0.797876238822937,True
+265,todas,"arcgis, qgis",0.7616714239120483,True
+266,álgebra,"cálculo, cálculo numérico",0.7535038590431213,True
+266,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+266,redes,redes,1.0,True
+266,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+266,desarrollo de aplicaciones móviles,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.3864196240901947,False
+266,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+266,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+267,caracterización de agua,"modelado de reservorios, reservorios",0.6289591789245605,True
+267,gestión ambiental,"legislación ambiental, normas ambientales",0.7528111338615417,True
+267,potabilización.,"matlab, matplotlib",0.6813733577728271,True
+268,sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.8072585463523865,True
+268,centrales eléctricas,"distribución eléctrica, generación eléctrica",0.805672287940979,True
+268,instalaciones eléctricas de medio voltaje y bajo voltaje,"distribución eléctrica, generación eléctrica",0.8104159832000732,True
+268,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+268,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+268,energías renovables,"energía renovable, sustentabilidad, trazabilidad",0.8467122316360474,True
+268,control industrial,control de procesos,0.6984515190124512,True
+268,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+269,alto voltaje,"distribución eléctrica, generación eléctrica",0.5733407139778137,True
+269,introducción a protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8286547064781189,True
+269,calidad de energía eléctrica,"distribución eléctrica, generación eléctrica",0.7844178080558777,True
+269,análisis de sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.7813255190849304,True
+269,accionamientos de máquinas,control de procesos,0.6309901475906372,True
+269,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+270,caracterización,"caracterización, clasificación",0.8715100288391113,True
+270,potabilización,modelado,0.652307391166687,True
+270,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+270,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+270,gestión ambiental,"legislación ambiental, normas ambientales",0.7528111338615417,True
+270,captación,"arcgis, qgis",0.6558080911636353,True
+271,termodinámica aplicada,"termodinámica, termodinámica química",0.8036082983016968,True
+271,transferencia de calor aplicada,"tratamiento de aguas, tratamientos térmicos",0.6390252709388733,True
+272,ingeniería de la reacción,"react, revit",0.6133780479431152,True
+272,balance de masa y energía,balances de materia y energía,0.9302136898040771,True
+272,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+273,diseño de estructuras metálicas,"mecánica clásica, mecánica de materiales",0.6602873802185059,True
+274,análisis en los espacios de banach y hilbert,"matlab, matplotlib",0.5436715483665466,True
+274,teoría de operadores lineales y acotados,"cálculo, cálculo numérico",0.5071644186973572,True
+274,ecuaciones diferenciales parciales,"cálculo, cálculo numérico",0.45164254307746887,True
+275,djdj,"gis, git",0.8659147620201111,True
+276,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+277,redes de área local,redes,0.6622371077537537,True
+278,petrografía,"cartografía, topografía",0.43198972940444946,False
+278,geoquímica y yacimientos minerales.,"geofísica, geomecánica, geotecnia",0.6547067165374756,True
+279,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+279,control automático,control de procesos,0.6811832189559937,True
+280,programación avanzada,arquitectura de computadoras,0.6159157752990723,True
+281,sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.8072585463523865,True
+281,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+281,sistemas eléctricos de distribución e itinerarios avanzado y básico,"distribución eléctrica, generación eléctrica",0.8001118898391724,True
+282,diseño de proyectos estructurales e hidráulicos. mis materias de especialidad en hidráulica,planificación de obras,0.6110564470291138,True
+283,hci,"gis, git",0.5477767586708069,True
+285,química,"termodinámica, termodinámica química",0.5813360810279846,True
+287,circuitos,"electrónica, electrónica analógica, electrónica digital ...",0.5661232471466064,True
+288,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+288,ingeniería de la reacción,"react, revit",0.6133780479431152,True
+288,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+288,transferencia de masa,balances de materia y energía,0.4474640190601349,False
+288,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+288,balance de masa,balances de materia y energía,0.7150654792785645,True
+288,balance de energía,balances de materia y energía,0.8684008121490479,True
+289,yacimientos,"arcgis, qgis",0.7087068557739258,True
+290,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+290,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+290,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+290,mecánica de fluidos aplicada,"mecánica clásica, mecánica de materiales",0.5923556685447693,True
+290,desgaste y falla.,"gis, git",0.5588270425796509,True
+291,petrografía,"cartografía, topografía",0.43198972940444946,False
+291,yacimientos minerales,"modelado ambiental, modelado geológico",0.5824037790298462,True
+291,exploración de yacimientos,"cartografía, topografía",0.6664982438087463,True
+291,geología del petróleo,"modelado ambiental, modelado geológico",0.5564537048339844,True
+291,hidrogeología,"modelado ambiental, modelado geológico",0.6268975138664246,True
+291,geotécnia,"geofísica, geomecánica, geotecnia",0.8564027547836304,True
+292,balance de masa,balances de materia y energía,0.7150654792785645,True
+292,balance de energía,balances de materia y energía,0.8684008121490479,True
+292,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+292,termodinámica i,"termodinámica, termodinámica química",0.8852309584617615,True
+293,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+293,instalaciones de media y baja tención,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.5434570908546448,True
+293,electrónica digital y microprocesadores,"electrónica, electrónica analógica, electrónica digital ...",0.7459909915924072,True
+294,tratamiento de aguas residuales y sistemas de alcantarillado,"tratamiento de aguas, tratamientos térmicos",0.557643711566925,True
+295,comunicaciones inalámbricas,protocolos de comunicación,0.7736287117004395,True
+295,sistemas de telecomunicaciones,"aws, wireless",0.6433274745941162,True
+295,redes de la siguiente generación,redes,0.7182955145835876,True
+296,iot,"arcgis, qgis",0.7635585069656372,True
+296,desarrollo de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6426692008972168,True
+297,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+298,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+298,desarrollo web y desarrollo mobile,"css, desarrollo web, html ...",0.5316643714904785,True
+299,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+299,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+299,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+300,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+300,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+300,verificación y validación,"caracterización, clasificación",0.4111279845237732,False
+300,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+301,comunicaciones inalámbricas,protocolos de comunicación,0.7736287117004395,True
+301,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+301,tcp,redes,0.549391508102417,True
+301,comunicaciones analógicas y digitales,protocolos de comunicación,0.7464600205421448,True
+301,propagación y antenas,"aws, wireless",0.4856611490249634,True
+301,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+301,redes de computadoras,redes,0.78403639793396,True
+301,comunicaciones ópticas,"fibra óptica, óptica",0.6750285625457764,True
+301,sistemas de telecomunicaciones,"aws, wireless",0.6433274745941162,True
+301,intranets,redes,0.6226091384887695,True
+301,leyes y normativas de las telecomunicaciones,protocolos de comunicación,0.6134844422340393,True
+301,redes de siguiente generación,redes,0.7293766736984253,True
+301,seguridad en redes,"ciberseguridad, seguridad informática",0.7493157982826233,True
+302,inteligencia artificial y machine learning y todas las relacionadas a fundamentos de la programación y demas,"deep learning, inteligencia artificial, machine learning",0.8480702042579651,True
+303,auditoría informática,base de datos,0.6580346822738647,True
+303,hci,"gis, git",0.5477767586708069,True
+303,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+303,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+304,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+304,bases de datos,base de datos,0.9896608591079712,True
+304,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+304,gestión de proyectos,planificación de obras,0.7408593893051147,True
+305,aplicaciones móviles y web,"aws, wireless",0.413189172744751,False
+305,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+305,machine learning,"deep learning, inteligencia artificial, machine learning",0.75099778175354,True
+305,álgebra,"cálculo, cálculo numérico",0.7535038590431213,True
+305,cálculo.,"cálculo, cálculo numérico",0.9228336811065674,True
+306,contabilidad,base de datos,0.5791750550270081,True
+306,finanzas de negocios,"finanzas, mercados financieros",0.7050269246101379,True
+306,gerencia de procesos,control de procesos,0.8782321214675903,True
+306,análisis fianciero,modelado,0.5993701219558716,True
+307,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+307,bases de datos,base de datos,0.9896608591079712,True
+307,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+308,scada,"arcgis, qgis",0.6555919647216797,True
+308,redes industriales.,redes,0.6909621357917786,True
+309,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+309,desarrollo móvil,protocolos de comunicación,0.4053880572319031,False
+309,bases de datos,base de datos,0.9896608591079712,True
+310,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+310,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+310,gestión de proyectos,planificación de obras,0.7408593893051147,True
+310,sistemas embebidos,sistemas de información,0.6538718938827515,True
+311,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+311,redes y telecomunicaciones,redes,0.7727184891700745,True
+312,hci,"gis, git",0.5477767586708069,True
+313,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+313,química general,"termodinámica, termodinámica química",0.5353778600692749,True
+313,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+313,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+314,redes industriales,redes,0.7059162855148315,True
+314,automatización con plc,arquitectura de computadoras,0.5551396608352661,True
+314,scada,"arcgis, qgis",0.6555919647216797,True
+314,gestión de proyectos,planificación de obras,0.7408593893051147,True
+314,control industrial,control de procesos,0.6984515190124512,True
+315,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+315,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+315,ingeniería de software y requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7432074546813965,True
+316,administración,"administración de empresas, gestión de calidad, gestión de datos ...",0.5447752475738525,True
+317,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+317,bases de datos,base de datos,0.9896608591079712,True
+317,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+317,gestión de proyectos de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6448432207107544,True
+317,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+318,programación 1 y 2,"matemática aplicada, programación matemática",0.5727134943008423,True
+318,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+318,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+318,gestión de procesos,control de procesos,0.8787543773651123,True
+318,bases de datos,base de datos,0.9896608591079712,True
+319,scada,"arcgis, qgis",0.6555919647216797,True
+319,automatización con plcs,arquitectura de computadoras,0.5792226791381836,True
+320,hormigón armado,"arcgis, qgis",0.4335644841194153,False
+321,optimización y análisis numérico,"optimización, optimización de procesos",0.8310637474060059,True
+321,estadística para mejora de la calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.5106843113899231,True
+321,análisis financiero y evaluación presupuestaria,"finanzas, mercados financieros",0.6644104719161987,True
+322,hidráulica,"arcgis, qgis",0.5574709177017212,True
+322,costos de obra,"costos, costos industriales",0.754498302936554,True
+322,fiscalización de obra,producción,0.557538628578186,True
+323,caracterización en agua,"modelado de reservorios, reservorios",0.6318663358688354,True
+323,tratamiento de agua residual,"tratamiento de aguas, tratamientos térmicos",0.6846376657485962,True
+324,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+324,bases de datos,base de datos,0.9896608591079712,True
+324,poo,"arcgis, qgis",0.620733380317688,True
+325,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+325,gestión de procesos,control de procesos,0.8787543773651123,True
+326,control y electricidad,"distribución eléctrica, generación eléctrica",0.740615963935852,True
+327,petrografía,"cartografía, topografía",0.43198972940444946,False
+327,mineralogía,"modelado ambiental, modelado geológico",0.588776707649231,True
+327,geotécnia.,"geofísica, geomecánica, geotecnia",0.8522171974182129,True
+328,desarrollo de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6426692008972168,True
+329,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+330,redes inalámbricas,redes,0.7900838851928711,True
+330,sistemas de telecomunicaciones,"aws, wireless",0.6433274745941162,True
+330,cableado estructurado,redes,0.4925486445426941,True
+330,redes de computadoras,redes,0.78403639793396,True
+330,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+331,dinámica,modelado,0.6763759851455688,True
+331,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+332,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+333,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+333,contabilidad,base de datos,0.5791750550270081,True
+333,administración,"administración de empresas, gestión de calidad, gestión de datos ...",0.5447752475738525,True
+333,economía,"econometría, modelos econométricos",0.7121906280517578,True
+333,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+333,procesos,control de procesos,0.7481175661087036,True
+333,derecho,"arcgis, qgis",0.7789129614830017,True
+333,comportamiento organizacional,"administración de empresas, gestión de calidad, gestión de datos ...",0.5507073998451233,True
+334,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+334,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+334,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+334,hci,"gis, git",0.5477767586708069,True
+334,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+335,refrigeración industrial,producción,0.5245272517204285,True
+335,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+335,soldadura,"arcgis, qgis",0.6895371675491333,True
+336,transferencia de calor i y ii,"termodinámica, termodinámica química",0.658150315284729,True
+336,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+337,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+337,redes,redes,1.0,True
+337,estructuras de datos,"estructura de datos, estructuras",0.9513668417930603,True
+337,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+337,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+337,tecnologías de la seguridad,"ciberseguridad, seguridad informática",0.7075523138046265,True
+337,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+338,hci,"gis, git",0.5477767586708069,True
+338,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+338,aplicaciones web avanzadas,arquitectura de computadoras,0.5563191771507263,True
+338,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+338,programacioni,modelado,0.5991125106811523,True
+338,programación ii,"matemática aplicada, programación matemática",0.5899453163146973,True
+339,contabilidad,base de datos,0.5791750550270081,True
+339,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+340,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+340,control y sistemas hmi,control de procesos,0.6835587620735168,True
+340,energías renovables,"energía renovable, sustentabilidad, trazabilidad",0.8467122316360474,True
+340,dibujo mecánico,"mecánica clásica, mecánica de materiales",0.7179466485977173,True
+340,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+341,perforación,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.7630288004875183,True
+341,completación,producción,0.49846336245536804,True
+341,sistemas de producción,producción,0.8095134496688843,True
+342,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+342,temodinamica,"matlab, matplotlib",0.505388081073761,True
+342,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+343,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+343,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+343,mecánica de fluidos aplicada,"mecánica clásica, mecánica de materiales",0.5923556685447693,True
+343,control de sistemas mecánicos,control de procesos,0.6920318603515625,True
+343,cad y cam,"sensores, sensores remotos",0.42224931716918945,False
+343,ingeniería de mantenimiento,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.6188693046569824,True
+344,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+344,sistemas embebidos,sistemas de información,0.6538718938827515,True
+344,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+344,gestión de proyectos de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6448432207107544,True
+344,desarrollo de software seguro,"ciberseguridad, seguridad informática",0.6014102697372437,True
+344,ingeniería de software y requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7432074546813965,True
+345,desarrollo de software seguro,"ciberseguridad, seguridad informática",0.6014102697372437,True
+345,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+345,automatización de procesos,control de procesos,0.7292710542678833,True
+345,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+345,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+345,bases de datos,base de datos,0.9896608591079712,True
+346,programación 1 y 2,"matemática aplicada, programación matemática",0.5727134943008423,True
+346,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+346,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+346,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+346,arquitectura de computadores,arquitectura de computadoras,0.9996210336685181,True
+346,arquitectura de software,arquitectura de computadoras,0.7828383445739746,True
+346,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+347,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+347,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+347,modelado y automatización,modelado,0.6505005359649658,True
+348,aceros,"arcgis, qgis",0.866644024848938,True
+348,máquinas y mecánismos,"mecánica clásica, mecánica de materiales",0.7385135889053345,True
+348,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+349,tcp ip,protocolos de comunicación,0.5428580641746521,True
+349,ingeniería de software 1 y 2,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7126990556716919,True
+349,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+350,mecánica de materials,"mecánica clásica, mecánica de materiales",0.8620800971984863,True
+350,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+350,dibujo mecánico y cad.,"mecánica clásica, mecánica de materiales",0.6363228559494019,True
+351,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+351,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+351,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+351,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+352,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+352,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+352,bases de datos,base de datos,0.9896608591079712,True
+352,calidad,"caracterización, clasificación",0.5351656675338745,True
+353,geotécnia,"geofísica, geomecánica, geotecnia",0.8564027547836304,True
+353,microtectónica,"macroeconomía, microeconomía",0.548896074295044,True
+353,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+353,registros geológicos,"modelado ambiental, modelado geológico",0.6495364904403687,True
+354,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+354,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+354,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+355,hormigón,"arcgis, qgis",0.6921799778938293,True
+356,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+356,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+356,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+356,modelación del agua,"modelado de reservorios, reservorios",0.6739530563354492,True
+356,ordenamiento territorial,"arcgis, qgis",0.4704749882221222,True
+356,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+356,depuración,"react, revit",0.5062828063964844,True
+356,potabilización,modelado,0.652307391166687,True
+356,energías renovables,"energía renovable, sustentabilidad, trazabilidad",0.8467122316360474,True
+357,estática,"arcgis, qgis",0.7713803052902222,True
+357,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+357,dinámica,modelado,0.6763759851455688,True
+357,soldadura,"arcgis, qgis",0.6895371675491333,True
+357,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+358,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+358,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+358,aplicaciones web avanzadas,arquitectura de computadoras,0.5563191771507263,True
+359,procesos industriales,producción,0.6753026247024536,True
+359,gestión de sistemas productivos,control de procesos,0.6862140893936157,True
+360,gestión de residuos municipales,"administración de empresas, gestión de calidad, gestión de datos ...",0.42955482006073,False
+360,gestión de residuos peligrosos,"corrosión, regresión",0.4367390275001526,False
+360,evaluación de impactos ambientales,"legislación ambiental, normas ambientales",0.6254270076751709,True
+360,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+360,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+360,economía ambiental,"legislación ambiental, normas ambientales",0.6844559907913208,True
+361,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+362,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+362,aplicaciones computacionales en hidráulica,"simulación, simulación de procesos",0.5761901140213013,True
+362,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+362,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+362,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+362,alcantarillad,"modelado de reservorios, reservorios",0.5686931610107422,True
+362,estructuras planas.,"cálculo estructural, diseño estructural, geología estructural",0.7375352382659912,True
+363,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+363,datos,base de datos,0.7762640714645386,True
+364,protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8060835599899292,True
+365,química,"termodinámica, termodinámica química",0.5813360810279846,True
+366,teoría de máquinas,"mecánica clásica, mecánica de materiales",0.6069426536560059,True
+366,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+366,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+366,desgaste y falla,"react, revit",0.6320240497589111,True
+367,mantenimiento,producción,0.5213937759399414,True
+367,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+367,sistemas de vapor,"termodinámica, termodinámica química",0.5138390064239502,True
+367,sistemas de aire acondicionado,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.47284525632858276,True
+367,refrigeración,producción,0.4683789014816284,True
+367,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+367,control,control de procesos,0.7509562969207764,True
+367,diseño mecánico.,"mecánica clásica, mecánica de materiales",0.7666181325912476,True
+368,gestión de procesos,control de procesos,0.8787543773651123,True
+368,gestión de talento humano,"aprendizaje no supervisado, aprendizaje supervisado",0.5173636674880981,True
+369,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+370,hidráulica,"arcgis, qgis",0.5574709177017212,True
+370,diseño de hormigón,"cálculo estructural, diseño estructural, geología estructural",0.5855808258056641,True
+370,aceros,"arcgis, qgis",0.866644024848938,True
+370,construcciones civiles,planificación de obras,0.5933632850646973,True
+370,fiscalización y costos en la construcción.,"costos, costos industriales",0.7499117851257324,True
+371,paquetes computacionales para la ingeniería estrcutural,arquitectura de computadoras,0.6233431696891785,True
+371,diseño hormigón armado,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5137203335762024,True
+371,maquinarias y -equipos hidráulicos,"logística, supply chain",0.6185564994812012,True
+372,gestión organizacional,"administración de empresas, gestión de calidad, gestión de datos ...",0.702958345413208,True
+372,formulación de proyectos,planificación de obras,0.7463893294334412,True
+372,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+373,sin información,sistemas de información,0.49418193101882935,True
+374,hormigón,"arcgis, qgis",0.6921799778938293,True
+375,diseño estructural e hidráulico,"modelado de reservorios, reservorios",0.6758002042770386,True
+375,costos,"costos, costos industriales",0.7708151340484619,True
+375,fiscalización,producción,0.6062955260276794,True
+376,web,redes,0.5578950047492981,True
+376,software,arquitectura de computadoras,0.5785545706748962,True
+376,redes,redes,1.0,True
+376,gestión de procesos,control de procesos,0.8787543773651123,True
+377,programación i y ii,"matemática aplicada, programación matemática",0.5423699021339417,True
+377,ingeniería de software y de requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7394925951957703,True
+377,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+377,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+377,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+378,machine learning,"deep learning, inteligencia artificial, machine learning",0.75099778175354,True
+379,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+379,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+379,centrales de generación eléctrica,"distribución eléctrica, generación eléctrica",0.8038433790206909,True
+379,introducción a protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8286547064781189,True
+379,protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8060835599899292,True
+379,instalaciones eléctricas de medio voltaje.,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7897335290908813,True
+380,hidráulica subterranes,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5371192693710327,True
+380,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+380,materiales de la contrucción y hormigones,"mecánica clásica, mecánica de materiales",0.6916888952255249,True
+380,costos de la construcción,"costos, costos industriales",0.7317941188812256,True
+380,diseño hidráulico,"modelado de reservorios, reservorios",0.6326714754104614,True
+380,planificación de recuros hídricos,"modelado de reservorios, reservorios",0.6390055418014526,True
+381,aplicaciones web y bases de datos,base de datos,0.7954632043838501,True
+382,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+383,itinerario de redes inteligentes,redes,0.6787893176078796,True
+384,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+385,seguridad informática,"ciberseguridad, seguridad informática",0.8730366230010986,True
+385,auditoría,base de datos,0.6174631714820862,True
+385,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+385,redes,redes,1.0,True
+385,desarrollo web y mobile,"css, desarrollo web, html ...",0.5347861647605896,True
+386,páginas web,base de datos,0.5972956418991089,True
+386,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+386,ingeniería en software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7999176979064941,True
+387,comunicaciones inalámbricas,protocolos de comunicación,0.7736287117004395,True
+388,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+388,electrotecnia,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6824328899383545,True
+388,protecciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8060835599899292,True
+388,seguridad industrial,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.596091628074646,True
+388,calidad de energía eléctrica,"distribución eléctrica, generación eléctrica",0.7844178080558777,True
+388,control industrial,control de procesos,0.6984515190124512,True
+388,sistemas eléctricos de distribución,"distribución eléctrica, generación eléctrica",0.8842909932136536,True
+388,dinámica de máquinas eléctricas,"distribución eléctrica, generación eléctrica",0.6505209803581238,True
+388,instalaciones eléctricas de medio voltaje,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7824270129203796,True
+388,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+388,sistemas eléctricos de potencia,"distribución eléctrica, generación eléctrica",0.8072585463523865,True
+389,control de calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.5301483869552612,True
+389,análisis multivariate,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.4694002866744995,True
+389,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+389,series temporales modelos de riesgo,"modelado de datos, modelado matemático",0.5169762969017029,True
+389,matemática actuarial,"cálculo, cálculo numérico",0.6510437726974487,True
+389,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+389,tic,"arcgis, qgis",0.6729304790496826,True
+389,probabilidad,modelado,0.43319883942604065,False
+390,gestión de recursos hídricos,"tratamiento de aguas, tratamientos térmicos",0.6251940727233887,True
+390,alcantarillado urbano,"modelado de reservorios, reservorios",0.5701342821121216,True
+390,hormigón flexión corte y torsión,"mecánica clásica, mecánica de materiales",0.530513346195221,True
+390,hidráulica aplicada,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5185893774032593,True
+390,aplicaciones computación al es en estructuras,"estructura de datos, estructuras",0.6753673553466797,True
+391,comunicaciones ópticas,"fibra óptica, óptica",0.6750285625457764,True
+391,telemática básica y avanzada,protocolos de comunicación,0.5832725763320923,True
+391,antenas y rf,"aws, wireless",0.4473614990711212,False
+392,mecánica de fluidos aplicada,"mecánica clásica, mecánica de materiales",0.5923556685447693,True
+392,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+392,dibujo mecánico cad,"mecánica clásica, mecánica de materiales",0.6580209732055664,True
+392,mecánica de materiales.,"mecánica clásica, mecánica de materiales",0.8834024667739868,True
+393,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+394,sistemas de transmisión,protocolos de comunicación,0.5747739672660828,True
+394,propagación y antenas,"aws, wireless",0.4856611490249634,True
+394,celulares,redes,0.4768982529640198,True
+394,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+394,comunicación digital,protocolos de comunicación,0.7232424020767212,True
+394,cableado estructurado.,redes,0.5238522887229919,True
+395,estática,"arcgis, qgis",0.7713803052902222,True
+395,dinámica,modelado,0.6763759851455688,True
+395,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+395,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+395,mecánica de materiales y ciencia de materiales.,"mecánica clásica, mecánica de materiales",0.8969757556915283,True
+396,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+396,mandos automáticos,modelado,0.5566110610961914,True
+396,sistemas embebidos,sistemas de información,0.6538718938827515,True
+397,balance de energía,balances de materia y energía,0.8684008121490479,True
+397,masa. transferencia de masa,balances de materia y energía,0.4819374680519104,True
+397,calor y fluidos,"tratamiento de aguas, tratamientos térmicos",0.6695219278335571,True
+398,control industrial,control de procesos,0.6984515190124512,True
+398,seguridad industrial,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.596091628074646,True
+398,formulación de proyectos,planificación de obras,0.7463893294334412,True
+399,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+400,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+400,programación entera,"matemática aplicada, programación matemática",0.5803022384643555,True
+400,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+401,caracterización del agua,"modelado de reservorios, reservorios",0.6291537880897522,True
+401,gestión ambiental,"legislación ambiental, normas ambientales",0.7528111338615417,True
+401,sistemas de alcantarillado,"modelado de reservorios, reservorios",0.6691985130310059,True
+401,hidráulica,"arcgis, qgis",0.5574709177017212,True
+401,topografía,"cartografía, topografía",0.8270922899246216,True
+401,abastecimiento del agua,"tratamiento de aguas, tratamientos térmicos",0.5958974361419678,True
+402,química analítica,"termodinámica, termodinámica química",0.576936662197113,True
+402,instrumental,"instrumentación, instrumentación científica",0.6335413455963135,True
+403,aplicaciones computacionales de estructuras e hidráulica,"cálculo estructural, diseño estructural, geología estructural",0.6145882606506348,True
+404,todas,"arcgis, qgis",0.7616714239120483,True
+405,geología de campo 1,"geofísica, geomecánica, geotecnia",0.7141257524490356,True
+405,geología de campo 2,"geofísica, geomecánica, geotecnia",0.7131739854812622,True
+405,geología del ecuador,"geofísica, geomecánica, geotecnia",0.629956841468811,True
+405,petrografía,"cartografía, topografía",0.43198972940444946,False
+405,cuecas sedimenatarias,"arcgis, qgis",0.7651525735855103,True
+405,geología del petróleo.,"modelado ambiental, modelado geológico",0.5520766973495483,True
+406,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+406,tics,"arcgis, qgis",0.62263423204422,True
+407,arquitectura de computadoras,arquitectura de computadoras,0.9999998807907104,True
+407,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+408,refrigeración,producción,0.4683789014816284,True
+409,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+410,diseño de interfaz,arquitectura de computadoras,0.6178098917007446,True
+410,desarrollo de aplicaciones y programación,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6540673971176147,True
+411,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+411,fundamentos de programación,arquitectura de computadoras,0.6592116951942444,True
+411,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+412,cálculo vectorial,"cálculo, cálculo numérico",0.7488347887992859,True
+412,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+412,control de máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6920379996299744,True
+413,teoría de máquinas,"mecánica clásica, mecánica de materiales",0.6069426536560059,True
+413,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+413,elementos mecánicos,"mecánica clásica, mecánica de materiales",0.8330562114715576,True
+413,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+413,desgaste y falla,"react, revit",0.6320240497589111,True
+413,mantenimiento,producción,0.5213937759399414,True
+413,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+413,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+414,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+414,bases de datos,base de datos,0.9896608591079712,True
+415,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+415,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+415,bases de datos,base de datos,0.9896608591079712,True
+416,mantenimiento,producción,0.5213937759399414,True
+417,estructuras planas,"cálculo estructural, diseño estructural, geología estructural",0.758270263671875,True
+417,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+418,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+418,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+418,logística,"logística, supply chain",0.8192185163497925,True
+418,layout,"cartografía, topografía",0.5988295078277588,True
+418,cad cam,"arcgis, qgis",0.5024535655975342,True
+418,procesos industriales,producción,0.6753026247024536,True
+418,todas las materias relacionadas a proyectos,planificación de obras,0.6446107625961304,True
+419,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+420,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+420,losas de hormigón,"matlab, matplotlib",0.6016995906829834,True
+420,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+421,seguridad de la red,"ciberseguridad, seguridad informática",0.7619885802268982,True
+422,gestión organizacional,"administración de empresas, gestión de calidad, gestión de datos ...",0.702958345413208,True
+422,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+422,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+423,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+423,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+424,redes,redes,1.0,True
+425,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+425,técnicas de potabilización,"optimización, optimización de procesos",0.5683127641677856,True
+425,sistemas de alcantarillado,"modelado de reservorios, reservorios",0.6691985130310059,True
+426,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+427,instalaciones eléctricas y de comunicación,"distribución eléctrica, generación eléctrica",0.7829862833023071,True
+427,construcción de redes eléctricas,"distribución eléctrica, generación eléctrica",0.6935911178588867,True
+428,calidad de agua,"tratamiento de aguas, tratamientos térmicos",0.6278629302978516,True
+428,calidad del suelo,buenas prácticas agrícolas,0.5808287858963013,True
+428,calidad de aire,"legislación ambiental, normas ambientales",0.4184604287147522,False
+428,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+428,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+429,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+429,depuración,"react, revit",0.5062828063964844,True
+429,estudio de impacto ambiental,"legislación ambiental, normas ambientales",0.6560167074203491,True
+430,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+430,gestión de desechos peligrosos,"legislación ambiental, normas ambientales",0.43398818373680115,False
+430,calidad de agua,"tratamiento de aguas, tratamientos térmicos",0.6278629302978516,True
+430,agua potable y saneamiento,"tratamiento de aguas, tratamientos térmicos",0.6441103219985962,True
+431,matemática actuarial,"cálculo, cálculo numérico",0.6510437726974487,True
+431,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+431,series temporales,just in time,0.567404568195343,True
+432,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+432,diseño de sistemas energéticos,balances de materia y energía,0.5862812995910645,True
+432,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+433,sistemas cad-cam,"sensores, sensores remotos",0.4827181100845337,True
+433,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+433,procesos industriales,producción,0.6753026247024536,True
+434,tcp,redes,0.549391508102417,True
+434,redes,redes,1.0,True
+434,seguridad,"ciberseguridad, seguridad informática",0.6808546185493469,True
+434,telecomunicaciones,redes,0.6646959781646729,True
+435,tcp,redes,0.549391508102417,True
+436,dinámica,modelado,0.6763759851455688,True
+436,diseño mecánico y cad.,"mecánica clásica, mecánica de materiales",0.6512391567230225,True
+437,transferencia de calor 1 y 2,"termodinámica, termodinámica química",0.6054632663726807,True
+437,fisicoquímica,"termodinámica, termodinámica química",0.6175051331520081,True
+437,análisis instrumental,"instrumentación, instrumentación científica",0.7224893569946289,True
+437,diseño de plantas.,"diseño de pcb, diseño de plantas",0.7477879524230957,True
+438,geometría,"cartografía, topografía",0.7600926160812378,True
+438,física,modelado,0.679757833480835,True
+438,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+438,hidráulica básica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5048121213912964,True
+438,hidráulica avanzada,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5296707153320312,True
+438,hidráulica de canales y tuberías,"modelado de reservorios, reservorios",0.661551833152771,True
+438,diseño hidráulico,"modelado de reservorios, reservorios",0.6326714754104614,True
+438,estructuras planas,"cálculo estructural, diseño estructural, geología estructural",0.758270263671875,True
+438,hormigón armado i y ii,"arcgis, qgis",0.6496636867523193,True
+438,diseño estructural,"cálculo estructural, diseño estructural, geología estructural",0.7812689542770386,True
+438,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+438,resistencia de materiales e hidrología básica.,"corrosión, regresión",0.5176512002944946,True
+439,tecnologías de la información,sistemas de información,0.8369753360748291,True
+439,seguridad informática,"ciberseguridad, seguridad informática",0.8730366230010986,True
+439,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+439,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+439,arquitectura de computadoras,arquitectura de computadoras,0.9999998807907104,True
+440,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+440,recuperación de información,sistemas de información,0.6297743320465088,True
+441,hormigón de vigas,"arcgis, qgis",0.7527033090591431,True
+441,hormigón de columnas,"matlab, matplotlib",0.5476999878883362,True
+441,aplicaciones computacionales,"matemática aplicada, programación matemática",0.6351206302642822,True
+441,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+441,fiscalización,producción,0.6062955260276794,True
+441,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+441,etc,"arcgis, qgis",0.7535308003425598,True
+442,programación de producción,producción,0.8493964672088623,True
+443,edo,"arcgis, qgis",0.8038453459739685,True
+444,mecánica,"mecánica clásica, mecánica de materiales",0.7974467277526855,True
+445,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+445,balance de masa,balances de materia y energía,0.7150654792785645,True
+445,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+445,ingeniería de la reación 1,"cálculo, cálculo numérico",0.6122461557388306,True
+446,lan,"arcgis, qgis",0.6850255727767944,True
+446,wlan,"arcgis, qgis",0.6749736070632935,True
+446,enrutamiento,"arcgis, qgis",0.6387899518013,True
+446,bdd,"matlab, matplotlib",0.45122265815734863,True
+446,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+446,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+446,seguridad.,"ciberseguridad, seguridad informática",0.6629810333251953,True
+447,hidráulica,"arcgis, qgis",0.5574709177017212,True
+448,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+448,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+449,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+449,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+449,recuperación información,sistemas de información,0.549646258354187,True
+449,gestión de procesos,control de procesos,0.8787543773651123,True
+450,estabilidad de sistemas eléctricos de potencia y análisis de datos,"distribución eléctrica, generación eléctrica",0.6646168828010559,True
+451,cad,modelado,0.4908674955368042,True
+451,desgaste y falla,"react, revit",0.6320240497589111,True
+453,sistemas microprocesados,control de procesos,0.45995572209358215,True
+453,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+453,control embebido,control de procesos,0.6984394788742065,True
+453,instrumentación biomédica,"instrumentación, instrumentación científica",0.6792521476745605,True
+453,circuitos electrónicos,"electrónica, electrónica analógica, electrónica digital ...",0.7049429416656494,True
+454,series temporales,just in time,0.567404568195343,True
+454,estructura de datos,"estructura de datos, estructuras",0.9498821496963501,True
+454,análisis multivariante,"cálculo, cálculo numérico",0.5067830681800842,True
+455,econmetría i,"matlab, matplotlib",0.6706031560897827,True
+455,econometría ii,"econometría, modelos econométricos",0.8886836171150208,True
+455,econometría aplicada,"econometría, modelos econométricos",0.8889732360839844,True
+455,finanzas internacionales,"finanzas, mercados financieros",0.6943632364273071,True
+456,gestión de sistemas productivos,control de procesos,0.6862140893936157,True
+456,estadística para la producción,producción,0.7722043991088867,True
+456,simulación y análisis numérico,"simulación, simulación de procesos",0.8431261777877808,True
+456,gestión de proyectos,planificación de obras,0.7408593893051147,True
+456,procesos industriales,producción,0.6753026247024536,True
+457,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+457,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+458,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+458,gestión de proyectos,planificación de obras,0.7408593893051147,True
+458,mantenimiento,producción,0.5213937759399414,True
+458,eficiencia energética,"energía renovable, sustentabilidad, trazabilidad",0.6492926478385925,True
+459,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+459,termodinámica aplicada,"termodinámica, termodinámica química",0.8036082983016968,True
+459,cad,modelado,0.4908674955368042,True
+459,elementos numéricos,"cálculo, cálculo numérico",0.6620954871177673,True
+459,electromagnetismo,"distribución eléctrica, generación eléctrica",0.4778512716293335,True
+459,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+459,metrología.,"cartografía, topografía",0.6236716508865356,True
+460,aplicaciones computacionales en hidráulica,"simulación, simulación de procesos",0.5761901140213013,True
+460,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+460,hormgión: flexión,"matlab, matplotlib",0.5066395998001099,True
+460,corte y torsión,"mecánica clásica, mecánica de materiales",0.5754148960113525,True
+460,hidráulica aplicada,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5185893774032593,True
+460,diseño hidráulico,"modelado de reservorios, reservorios",0.6326714754104614,True
+461,sísmica,"modelado ambiental, modelado geológico",0.4695852994918823,True
+461,estructuras planas,"cálculo estructural, diseño estructural, geología estructural",0.758270263671875,True
+461,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+461,costos,"costos, costos industriales",0.7708151340484619,True
+461,fiscalización,producción,0.6062955260276794,True
+462,simulación,"simulación, simulación de procesos",0.8576294779777527,True
+462,series temporales,just in time,0.567404568195343,True
+462,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+463,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+463,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+463,aplicaciones distribuidas,sistemas de información,0.48521894216537476,True
+463,diseño de interfaces,arquitectura de computadoras,0.5831698179244995,True
+464,tecnologías de seguridad,"ciberseguridad, seguridad informática",0.7100321054458618,True
+464,aplicaciones distribuidas,sistemas de información,0.48521894216537476,True
+464,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+464,fundamentos de inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.719247579574585,True
+465,evaluación de impactos ambientales,"legislación ambiental, normas ambientales",0.6254270076751709,True
+465,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+465,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+465,sig,"arcgis, qgis",0.7662829160690308,True
+465,calidad y control de la contaminación del aire,"legislación ambiental, normas ambientales",0.5911166071891785,True
+466,gestión de proyectos,planificación de obras,0.7408593893051147,True
+466,financiera,"finanzas, mercados financieros",0.8017802834510803,True
+467,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+467,gestión de proyectos,planificación de obras,0.7408593893051147,True
+468,sep,"arcgis, qgis",0.7830688953399658,True
+468,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+468,instalaciones eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8394190073013306,True
+469,dibujo técnico y cad,"mecánica clásica, mecánica de materiales",0.5427887439727783,True
+469,comunicación profesional,protocolos de comunicación,0.7041099071502686,True
+469,procesos de manufactura,producción,0.781731367111206,True
+469,estructuras metálicas,"mecánica clásica, mecánica de materiales",0.658004641532898,True
+469,ciencia de materiales aplicada,"mecánica clásica, mecánica de materiales",0.756310224533081,True
+469,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+469,gestión de proyectos,planificación de obras,0.7408593893051147,True
+469,soldadura.,"arcgis, qgis",0.8065859079360962,True
+470,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+470,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+470,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+470,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+471,control de sistemas mecánicos,control de procesos,0.6920318603515625,True
+471,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+471,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+471,mecánica de materiales y métodos numéricos,"mecánica clásica, mecánica de materiales",0.8069355487823486,True
+472,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+472,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+472,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+472,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+472,desgaste y falla,"react, revit",0.6320240497589111,True
+473,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+473,tranferencia de calor aplicada,"tratamiento de aguas, tratamientos térmicos",0.5838905572891235,True
+473,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+473,desgaste y falla,"react, revit",0.6320240497589111,True
+473,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+473,dibujo mecánico y cad y diseño de máquinas,"mecánica clásica, mecánica de materiales",0.641716480255127,True
+474,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+474,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+474,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+474,diseño de máquinas.,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6276485919952393,True
+475,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+476,desgaste y falla,"react, revit",0.6320240497589111,True
+476,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+476,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+476,ciencia de materiales aplicada,"mecánica clásica, mecánica de materiales",0.756310224533081,True
+477,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+477,gestión de residuos peligrosos,"corrosión, regresión",0.4367390275001526,False
+477,suelos,"arcgis, qgis",0.6162129640579224,True
+477,agua potable y alcantarillado,"modelado de reservorios, reservorios",0.6302793622016907,True
+478,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+478,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+478,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+478,materiales,"mecánica clásica, mecánica de materiales",0.7035009264945984,True
+478,hormigón,"arcgis, qgis",0.6921799778938293,True
+478,flexión y corte,"matlab, matplotlib",0.5107506513595581,True
+478,instalaciones hidráulicas,"modelado de reservorios, reservorios",0.6451733708381653,True
+479,distribución,"distribución eléctrica, generación eléctrica",0.6035887002944946,True
+480,poo,"arcgis, qgis",0.620733380317688,True
+480,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+480,arquitectura de computadores,arquitectura de computadoras,0.9996210336685181,True
+481,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+481,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+481,materiales compuestos,"mecánica clásica, mecánica de materiales",0.6556905508041382,True
+481,métodos numéricos,"cálculo, cálculo numérico",0.7724143266677856,True
+482,logística y distribcucion,"logística, supply chain",0.7571348547935486,True
+482,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+482,planificación de la producción,planificación de la producción,1.0,True
+482,gestión de procesos,control de procesos,0.8787543773651123,True
+483,programación i y ii,"matemática aplicada, programación matemática",0.5423699021339417,True
+483,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+483,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+483,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+483,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+483,validación y verificación de software.,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.37285852432250977,False
+484,indroducción a la cosmología,"teoría cuántica, teoría de juegos, teoría de números",0.3985752761363983,False
+484,introducción a la relatividad general,just in time,0.4009840488433838,False
+484,mecánica cuántica,"teoría cuántica, teoría de juegos, teoría de números",0.6292116641998291,True
+484,programación científica.,"instrumentación, instrumentación científica",0.65555739402771,True
+485,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+485,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+485,álgebra,"cálculo, cálculo numérico",0.7535038590431213,True
+485,mecánica newtoniana,"mecánica clásica, mecánica de materiales",0.5388163924217224,True
+486,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+487,fiscalización,producción,0.6062955260276794,True
+488,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+488,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+488,dinámica,modelado,0.6763759851455688,True
+488,estática,"arcgis, qgis",0.7713803052902222,True
+488,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+488,soldadura,"arcgis, qgis",0.6895371675491333,True
+489,gestión por procesos,control de procesos,0.8682327270507812,True
+489,procesos industriales,producción,0.6753026247024536,True
+489,programación de la producción,producción,0.8597139120101929,True
+490,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+490,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+490,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+490,ingeniería de software ii,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7808362245559692,True
+490,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+490,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+490,fundamentos de bases de datos,base de datos,0.9258902072906494,True
+491,probabilidad,modelado,0.43319883942604065,False
+491,base de datos distribuida,base de datos,0.8109257221221924,True
+491,cálculo en una variable,"cálculo, cálculo numérico",0.6872897148132324,True
+492,gestión de procesos,control de procesos,0.8787543773651123,True
+492,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+493,análisis de agua natural y aguas residuales,"modelado de reservorios, reservorios",0.501252293586731,True
+494,dinámica,modelado,0.6763759851455688,True
+494,estática,"arcgis, qgis",0.7713803052902222,True
+494,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+494,estructuras,"cálculo estructural, diseño estructural, geología estructural",0.729766845703125,True
+494,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+494,programas cad,modelado,0.5024027824401855,True
+495,evaluación de impactos ambientales,"legislación ambiental, normas ambientales",0.6254270076751709,True
+495,seguridad y salud ocupacional,"ciberseguridad, seguridad informática",0.46769973635673523,True
+495,residuos,producción,0.48343801498413086,True
+495,ordenamiento territorial,"arcgis, qgis",0.4704749882221222,True
+495,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+496,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+496,redes y telecomunicaciones,redes,0.7727184891700745,True
+496,y gestión de proyectos,planificación de obras,0.7202695608139038,True
+497,hci,"gis, git",0.5477767586708069,True
+497,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+497,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+497,bases de datos,base de datos,0.9896608591079712,True
+498,evaluación de impactos,modelado,0.4117034673690796,False
+498,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+498,depuración,"react, revit",0.5062828063964844,True
+498,salud y seguridad ocupacional,"ciberseguridad, seguridad informática",0.42618346214294434,False
+499,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+499,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+499,bases de datos,base de datos,0.9896608591079712,True
+499,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+499,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+500,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+500,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+500,ingeniería sísmica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5905709266662598,True
+500,diseño de puentes,"cálculo estructural, diseño estructural, geología estructural",0.5768308043479919,True
+500,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+501,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+501,desarrollo de aplicaciones móviles,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.3864196240901947,False
+501,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+502,diseño,modelado,0.7086400985717773,True
+502,metrología,"cartografía, topografía",0.6982171535491943,True
+502,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+503,màquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6906644105911255,True
+503,instalaciones elèctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.8256694078445435,True
+503,sistemas elèctricos de potencia,"distribución eléctrica, generación eléctrica",0.8016706705093384,True
+503,centrales de generación,"distribución eléctrica, generación eléctrica",0.6375195980072021,True
+503,sistemas elèctricos de distribuciòn,"distribución eléctrica, generación eléctrica",0.8269245624542236,True
+503,calidad de la energìa,"energía renovable, sustentabilidad, trazabilidad",0.670952558517456,True
+504,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+504,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+504,algoritmos y estructuras de datos,"estructura de datos, estructuras",0.826972484588623,True
+505,ninguna todas no sirven de nada,"arcgis, qgis",0.43086105585098267,False
+506,hormigón vigas (hormigón,"arcgis, qgis",0.7128210067749023,True
+506,corte y torsión),"mecánica clásica, mecánica de materiales",0.6182923316955566,True
+506,topografía (docente ineficiente),"cartografía, topografía",0.7716572284698486,True
+506,diseño de proyectos estructurales,planificación de obras,0.7373233437538147,True
+506,diseño de proyectos hidráulicos,planificación de obras,0.6600621938705444,True
+506,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+506,aplicaciones computacionales en hidráulica,"simulación, simulación de procesos",0.5761901140213013,True
+506,costos en la construcción (docente ineficiente-pésima pedagogía),"costos, costos industriales",0.5872941613197327,True
+506,fiscalización (docente ineficiente-pésima pedagogía),"aprendizaje no supervisado, aprendizaje supervisado",0.6891478300094604,True
+506,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+506,hidráulica de canales y tuberías,"modelado de reservorios, reservorios",0.661551833152771,True
+506,resistencia de materiales vigas,"corrosión, regresión",0.5925737619400024,True
+506,hidrología básica,"modelado de reservorios, reservorios",0.6332498788833618,True
+506,hidrología aplicada,"tratamiento de aguas, tratamientos térmicos",0.645239531993866,True
+506,hidráulica fluvial,"modelado de reservorios, reservorios",0.6401859521865845,True
+507,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+508,química,"termodinámica, termodinámica química",0.5813360810279846,True
+508,contaminación del agua,"tratamiento de aguas, tratamientos térmicos",0.5316206216812134,True
+508,contaminación del suelo,"legislación ambiental, normas ambientales",0.5937265157699585,True
+508,contaminación del aire,"legislación ambiental, normas ambientales",0.5137255787849426,True
+508,evaluación de impactos ambientales,"legislación ambiental, normas ambientales",0.6254270076751709,True
+508,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+509,evaluación de impacto ambiental,"legislación ambiental, normas ambientales",0.6118443012237549,True
+509,manejo de residuos peligrosos,"corrosión, regresión",0.4513487219810486,True
+509,seguridad y salud ocupacional,"ciberseguridad, seguridad informática",0.46769973635673523,True
+510,gestión de recursos naturales,buenas prácticas agrícolas,0.5615219473838806,True
+510,economía ambiental,"legislación ambiental, normas ambientales",0.6844559907913208,True
+510,gestión de residuos peligrosos,"corrosión, regresión",0.4367390275001526,False
+510,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+511,en mi caso me interesaron la toxicología,control de plagas,0.40511590242385864,False
+511,los análisis de laboratorio,"instrumentación, instrumentación científica",0.6155614852905273,True
+511,la legislación ambiental,"legislación ambiental, normas ambientales",0.9509740471839905,True
+513,proyectos estructurales,planificación de obras,0.7296202182769775,True
+513,hormigón i,"arcgis, qgis",0.7463642358779907,True
+513,hormigón ii,"arcgis, qgis",0.7964171171188354,True
+514,estructuras,"cálculo estructural, diseño estructural, geología estructural",0.729766845703125,True
+515,resistencia de materiales,"corrosión, regresión",0.60728520154953,True
+515,estructuras planas,"cálculo estructural, diseño estructural, geología estructural",0.758270263671875,True
+515,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+516,las q continúan a partir de las básicas,"matlab, matplotlib",0.4508322477340698,True
+517,dinámica,modelado,0.6763759851455688,True
+517,estudios de sep,"arcgis, qgis",0.7115028500556946,True
+517,estabilidad de sep,"matlab, matplotlib",0.5084019899368286,True
+517,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+518,itinerario avanzado de redes inteligentes,redes,0.6321539282798767,True
+519,todas,"arcgis, qgis",0.7616714239120483,True
+520,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+520,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+521,gestión de proyectos de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6448432207107544,True
+521,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+521,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+521,estructura de datos,"estructura de datos, estructuras",0.9498821496963501,True
+522,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+522,procesos estocásticos,control de procesos,0.7307586669921875,True
+522,series temporales,just in time,0.567404568195343,True
+522,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+523,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+523,redes,redes,1.0,True
+523,control industrial,control de procesos,0.6984515190124512,True
+523,sensores y transductores,"sensores, sensores remotos",0.8226306438446045,True
+524,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+524,end,"arcgis, qgis",0.5381842255592346,True
+524,desgaste y falla,"react, revit",0.6320240497589111,True
+524,ciencias de materiales,"mecánica clásica, mecánica de materiales",0.7829040288925171,True
+525,procesos industriales,producción,0.6753026247024536,True
+526,aplicaciones distribuidas,sistemas de información,0.48521894216537476,True
+527,gestión organizacional,"administración de empresas, gestión de calidad, gestión de datos ...",0.702958345413208,True
+527,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+527,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+528,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+528,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+528,microcontroladores,"electrónica, electrónica analógica, electrónica digital ...",0.45621663331985474,True
+528,biométrica,modelado,0.5232911109924316,True
+529,instalaciones de medio voltaje,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7400677800178528,True
+529,alto voltaje,"distribución eléctrica, generación eléctrica",0.5733407139778137,True
+529,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+529,control industrial,control de procesos,0.6984515190124512,True
+530,análisis real,modelado,0.6418170928955078,True
+530,análisis complejo,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.5606523752212524,True
+530,teoría de la medida,"cálculo, cálculo numérico",0.6185411214828491,True
+530,topología,"cartografía, topografía",0.6657002568244934,True
+530,edp,"arcgis, qgis",0.5406844615936279,True
+531,hmi y control industrial,control de procesos,0.6267168521881104,True
+532,estructuras planas,"cálculo estructural, diseño estructural, geología estructural",0.758270263671875,True
+532,mecánica de suelos,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.5899096131324768,True
+532,hormigón,"arcgis, qgis",0.6921799778938293,True
+532,aplicaciones computacionales en estructuras,"cálculo estructural, diseño estructural, geología estructural",0.6134119033813477,True
+533,química,"termodinámica, termodinámica química",0.5813360810279846,True
+533,física,modelado,0.679757833480835,True
+533,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+534,todas a partir de 4to semestre,"matlab, matplotlib",0.5066108107566833,True
+535,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+536,tcp,redes,0.549391508102417,True
+537,inteligencia artificial y aprendizaje automático.,"deep learning, inteligencia artificial, machine learning",0.8259460926055908,True
+538,base de datos,base de datos,0.9999999403953552,True
+538,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+538,aplicaciones web avanzadas,arquitectura de computadoras,0.5563191771507263,True
+538,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+538,aplicaciones móviles,"telefonía ip, voz sobre ip",0.3940960466861725,False
+538,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+538,sistemas embebidos,sistemas de información,0.6538718938827515,True
+539,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+539,bases de datos,base de datos,0.9896608591079712,True
+539,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+540,optimización,"optimización, optimización de procesos",0.8372970819473267,True
+540,calidad de energía,"energía renovable, sustentabilidad, trazabilidad",0.6871335506439209,True
+540,centrales de generación,"distribución eléctrica, generación eléctrica",0.6375195980072021,True
+541,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+542,poo,"arcgis, qgis",0.620733380317688,True
+542,bases de datos,base de datos,0.9896608591079712,True
+542,ciberseguridad,"ciberseguridad, seguridad informática",0.9461658000946045,True
+542,redes,redes,1.0,True
+542,algoritmos.,"optimización, optimización de procesos",0.5995733141899109,True
+543,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+543,ing de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.578567385673523,True
+543,app web,arquitectura de computadoras,0.42589157819747925,False
+543,app móviles,"telefonía ip, voz sobre ip",0.3623255789279938,False
+544,control industrial,control de procesos,0.6984515190124512,True
+544,automatización con plcs,arquitectura de computadoras,0.5792226791381836,True
+544,sistemas scada,sistemas de información,0.6382986307144165,True
+544,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+544,instalaciones industriales,producción,0.604568600654602,True
+545,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+545,desgaste y falla,"react, revit",0.6320240497589111,True
+545,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+545,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+546,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+547,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+547,machine learning,"deep learning, inteligencia artificial, machine learning",0.75099778175354,True
+547,ingeniería de software ii,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7808362245559692,True
+547,recuperación de la información.,sistemas de información,0.6052153706550598,True
+548,análisis multivariante y minería de datos,"estructura de datos, estructuras",0.6061016917228699,True
+548,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+548,series temporales,just in time,0.567404568195343,True
+548,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+548,programación estructurada,"estructura de datos, estructuras",0.6317819952964783,True
+549,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+549,automatización usando plcs,arquitectura de computadoras,0.5882042646408081,True
+549,mandos neumáticos,"mecánica clásica, mecánica de materiales",0.47673484683036804,True
+549,control de procesos industriales,control de procesos,0.820083737373352,True
+550,inteligencia artificial y aprendizaje automático,"deep learning, inteligencia artificial, machine learning",0.8259767293930054,True
+551,automatización usando plcs,arquitectura de computadoras,0.5882042646408081,True
+551,redes industriales,redes,0.7059162855148315,True
+552,ingeniería de software y de requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7394925951957703,True
+552,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+552,profesionalismo en informática,arquitectura de computadoras,0.5946596264839172,True
+553,redes,redes,1.0,True
+553,desarrollosofftware,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.4716416597366333,True
+553,desorrolomovil,control de plagas,0.350793719291687,False
+553,tecnologiasinformacion,sistemas de información,0.7969469428062439,True
+554,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+555,sistemas iot,sistemas de información,0.6865740418434143,True
+555,lan,"arcgis, qgis",0.6850255727767944,True
+555,wlan,"arcgis, qgis",0.6749736070632935,True
+555,wan,"gis, git",0.7110801339149475,True
+555,hacking ético,"ciberseguridad, seguridad informática",0.6604506373405457,True
+556,auditoría con el ing naranjo,"arcgis, qgis",0.5950679779052734,True
+556,inteligencia artificial con el ing banda,"deep learning, inteligencia artificial, machine learning",0.684051513671875,True
+556,base de datos ing rosita,base de datos,0.9074655175209045,True
+557,diseño mecánico,"mecánica clásica, mecánica de materiales",0.7482469081878662,True
+557,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+558,programación orientada a objetos,"matemática aplicada, programación matemática",0.6053365468978882,True
+558,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+558,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+559,web,redes,0.5578950047492981,True
+559,videojuegos,redes,0.43999814987182617,False
+559,computación gráfica,visualización de datos,0.643892765045166,True
+560,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+560,sistemas eléctricos,"distribución eléctrica, generación eléctrica",0.7385742664337158,True
+560,máquinas eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7131752967834473,True
+560,control automático,control de procesos,0.6811832189559937,True
+560,control neumático,control de procesos,0.5784087181091309,True
+561,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+561,automatización de procesos,control de procesos,0.7292710542678833,True
+561,software seguro,"ciberseguridad, seguridad informática",0.58507239818573,True
+561,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+561,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+561,gestión de proyectos de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6448432207107544,True
+561,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+562,diseño de máquinas,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5934613943099976,True
+562,cad,modelado,0.4908674955368042,True
+562,estática,"arcgis, qgis",0.7713803052902222,True
+562,dinámica,modelado,0.6763759851455688,True
+563,logística,"logística, supply chain",0.8192185163497925,True
+563,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+563,programación de la producción,producción,0.8597139120101929,True
+564,dinujo mecánico,"mecánica clásica, mecánica de materiales",0.8361412286758423,True
+564,dinpamica,"arcgis, qgis",0.7393928170204163,True
+564,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+564,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+564,materiales nuevos,"mecánica clásica, mecánica de materiales",0.6193625926971436,True
+565,ingeniería de requisitos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6210727691650391,True
+566,diseño mecánico,"mecánica clásica, mecánica de materiales",0.7482469081878662,True
+566,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+566,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+566,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+566,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+567,estructura de datos ii,"estructura de datos, estructuras",0.8800596594810486,True
+567,inteligencia de negocios,"administración de empresas, gestión de calidad, gestión de datos ...",0.49222123622894287,True
+567,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+567,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+567,aplicaciones web avanzadas,arquitectura de computadoras,0.5563191771507263,True
+567,automatización de procesos,control de procesos,0.7292710542678833,True
+568,instalación eléctricas,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7753590941429138,True
+568,máquinas eléctrica,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.7141509056091309,True
+568,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+569,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+570,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+571,cadena de suministro,"logística, supply chain",0.8337157368659973,True
+571,inventarios,base de datos,0.6180775761604309,True
+571,logística,"logística, supply chain",0.8192185163497925,True
+571,producción,producción,1.0000001192092896,True
+572,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+572,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+572,computación gráfica,visualización de datos,0.643892765045166,True
+572,arquitectura de computadores,arquitectura de computadoras,0.9996210336685181,True
+573,base de datos,base de datos,0.9999999403953552,True
+573,hci,"gis, git",0.5477767586708069,True
+573,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+574,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+574,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+574,instrumentación y control y sistemas hmi,control de procesos,0.5490814447402954,True
+575,las asignaturas más relevantes durante mi formación fueron,"aprendizaje no supervisado, aprendizaje supervisado",0.444205105304718,False
+575,en la parte básica,"matlab, matplotlib",0.7097465991973877,True
+575,álgebra y cálculo,"cálculo, cálculo numérico",0.7951764464378357,True
+575,porque proporcionaron las bases necesarias para comprender las ciencias aplicadas. en cuanto a la carrera,"instrumentación, instrumentación científica",0.46102362871170044,True
+575,petrografía,"cartografía, topografía",0.43198972940444946,False
+575,sedimentología y estratigrafía,"cálculo estructural, diseño estructural, geología estructural",0.6187565326690674,True
+575,geofísica,"geofísica, geomecánica, geotecnia",0.8767101764678955,True
+575,cuencas sedimentarias y geotécnia fueron las más importantes,"geofísica, geomecánica, geotecnia",0.6982748508453369,True
+575,ya que tienen una aplicación directa en la industria.,"administración de empresas, gestión de calidad, gestión de datos ...",0.4944566786289215,True
+576,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+576,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+576,control y sistemas hmi,control de procesos,0.6835587620735168,True
+577,gestiòn de procesos y calidad,control de procesos,0.6741674542427063,True
+577,gestión de proyectos,planificación de obras,0.7408593893051147,True
+578,tcp,redes,0.549391508102417,True
+578,redes de computadoras,redes,0.78403639793396,True
+578,redes inalámbricas,redes,0.7900838851928711,True
+578,redes de siguiente generación,redes,0.7293766736984253,True
+578,sistemas de telecomunicaciones,"aws, wireless",0.6433274745941162,True
+579,hormigón,"arcgis, qgis",0.6921799778938293,True
+579,hidráulica,"arcgis, qgis",0.5574709177017212,True
+580,propagación y antenas,"aws, wireless",0.4856611490249634,True
+580,sistemas celulares,redes neuronales,0.5233328342437744,True
+580,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True
+580,redes de microondas,redes,0.4756215214729309,True
+581,gestión de proyectos,planificación de obras,0.7408593893051147,True
+581,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+581,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+581,balance masa y energía,balances de materia y energía,0.925408661365509,True
+582,costos en la construcción,"costos, costos industriales",0.7519931793212891,True
+582,fiscalización,producción,0.6062955260276794,True
+582,mecánica de suelos básica,"ingeniería de perforación, ingeniería de yacimientos, perforación",0.538102388381958,True
+582,construcciones civiles,planificación de obras,0.5933632850646973,True
+582,vigas,"arcgis, qgis",0.793152928352356,True
+582,hormigón,"arcgis, qgis",0.6921799778938293,True
+583,electrónica,"electrónica, electrónica analógica, electrónica digital ...",0.7630320191383362,True
+583,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+583,networking,redes,0.8166965246200562,True
+584,finanzas,"finanzas, mercados financieros",0.8362051248550415,True
+585,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+585,bases de datos,base de datos,0.9896608591079712,True
+585,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+586,mecánica estadística,"cálculo, cálculo numérico",0.581350564956665,True
+586,relatividad general,just in time,0.4179752469062805,False
+586,mecánica cuántica,"teoría cuántica, teoría de juegos, teoría de números",0.6292116641998291,True
+586,óptica,"fibra óptica, óptica",0.763680100440979,True
+586,mecánica analítica,"mecánica clásica, mecánica de materiales",0.7844147086143494,True
+587,geología del ecuador,"geofísica, geomecánica, geotecnia",0.629956841468811,True
+587,geomorfología,"geofísica, geomecánica, geotecnia",0.8270817995071411,True
+587,geotécnia,"geofísica, geomecánica, geotecnia",0.8564027547836304,True
+588,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+588,multivariante,"cálculo, cálculo numérico",0.5214912295341492,True
+589,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+589,estructura de datos y algoritmos,"estructura de datos, estructuras",0.8504514694213867,True
+589,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+589,bases de datos,base de datos,0.9896608591079712,True
+589,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+589,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+589,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+590,liderazgo,"aprendizaje no supervisado, aprendizaje supervisado",0.45102474093437195,True
+591,control hmi,control de procesos,0.6667197346687317,True
+591,refrigeración,producción,0.4683789014816284,True
+592,programación i,"matemática aplicada, programación matemática",0.6205146312713623,True
+592,programación ii,"matemática aplicada, programación matemática",0.5899453163146973,True
+592,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+592,ingeniería de software y de requerimientos,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7394925951957703,True
+592,fundamentos de bases de datos,base de datos,0.9258902072906494,True
+592,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+592,aplicaciones web,arquitectura de computadoras,0.5333574414253235,True
+592,metodologías ágiles,"optimización, optimización de procesos",0.6532120108604431,True
+593,desarrollo,producción,0.627745509147644,True
+593,redes,redes,1.0,True
+594,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+594,desarrollo web,"css, desarrollo web, html ...",0.6516356468200684,True
+594,bases de datos.,base de datos,0.9761388301849365,True
+595,caracterización del agua,"modelado de reservorios, reservorios",0.6291537880897522,True
+595,alcantarillado,"modelado de reservorios, reservorios",0.5911636352539062,True
+595,gestión ambiental,"legislación ambiental, normas ambientales",0.7528111338615417,True
+595,hidráulica,"arcgis, qgis",0.5574709177017212,True
+595,tratamiento de aguas residuales,"tratamiento de aguas, tratamientos térmicos",0.6356208920478821,True
+596,potabilización,modelado,0.652307391166687,True
+596,química,"termodinámica, termodinámica química",0.5813360810279846,True
+596,gestión ambiental.,"legislación ambiental, normas ambientales",0.75468510389328,True
+597,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+597,control de sistemas mecánicos,control de procesos,0.6920318603515625,True
+597,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+597,motores de combustión interna,producción,0.4315432906150818,False
+597,desgaste y falla,"react, revit",0.6320240497589111,True
+597,gestión de procesos y calidadsisr,"administración de empresas, gestión de calidad, gestión de datos ...",0.7194041609764099,True
+598,ingeniería de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7811623215675354,True
+599,petrografía,"cartografía, topografía",0.43198972940444946,False
+599,mineralogía óptica,"fibra óptica, óptica",0.6149430274963379,True
+599,geología del ecuador,"geofísica, geomecánica, geotecnia",0.629956841468811,True
+599,petrologias,"arcgis, qgis",0.7284122705459595,True
+600,grafos,"matlab, matplotlib",0.6133107542991638,True
+600,programación lineal,"matemática aplicada, programación matemática",0.5832098722457886,True
+600,implementación de programas enteros,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.5668691396713257,True
+600,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+600,actuarial.,"arcgis, qgis",0.4478287100791931,False
+601,micro,"macroeconomía, microeconomía",0.5528453588485718,True
+601,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+601,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+601,macro,"etl, latex, lte",0.5244183540344238,True
+601,economía pública,"econometría, modelos econométricos",0.5721315145492554,True
+602,fundamentosia,modelado,0.6978737711906433,True
+602,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+602,iot,"arcgis, qgis",0.7635585069656372,True
+602,desarrollo de aplicaciones web,"css, desarrollo web, html ...",0.6016254425048828,True
+603,mantenimiento,producción,0.5213937759399414,True
+603,ofimática,"arcgis, qgis",0.7670031785964966,True
+604,cableado estructurado,redes,0.4925486445426941,True
+604,comunicaciones ópticas,"fibra óptica, óptica",0.6750285625457764,True
+604,comunicaciones inalámbricas,protocolos de comunicación,0.7736287117004395,True
+604,sistemas operativos,arquitectura de computadoras,0.6267542839050293,True
+604,intranets,redes,0.6226091384887695,True
+604,seguridad en redes,"ciberseguridad, seguridad informática",0.7493157982826233,True
+605,cam cnc,"crm, scrum",0.5680399537086487,True
+606,hci,"gis, git",0.5477767586708069,True
+607,balance de energía y masa,balances de materia y energía,0.9314643144607544,True
+607,tranferencia de calor,"termodinámica, termodinámica química",0.5891678929328918,True
+607,masa,"arcgis, qgis",0.6962224245071411,True
+607,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+607,ingeniería de las reacciones,"react, revit",0.6429719924926758,True
+607,materiales,"mecánica clásica, mecánica de materiales",0.7035009264945984,True
+608,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+608,análisis multivariante y minería de datos,"estructura de datos, estructuras",0.6061016917228699,True
+609,verificación y validación de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.33836084604263306,False
+609,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+609,diseño de software.,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.7109630107879639,True
+610,soldadura,"arcgis, qgis",0.6895371675491333,True
+610,ensayos no destructivos (solo es de itinerario,"corrosión, regresión",0.541494607925415,True
+610,pero debería ser obligatoria),"aprendizaje no supervisado, aprendizaje supervisado",0.40764158964157104,False
+610,herramientas informáticas,arquitectura de computadoras,0.7101210355758667,True
+610,dibujo mecánico y cad,"mecánica clásica, mecánica de materiales",0.6569137573242188,True
+610,estructuras de acero,"mecánica clásica, mecánica de materiales",0.6087614297866821,True
+610,mecánica de materiales,"mecánica clásica, mecánica de materiales",0.8750853538513184,True
+610,ciencia de materiales,"mecánica clásica, mecánica de materiales",0.7711101770401001,True
+610,transferencia de calor,"tratamiento de aguas, tratamientos térmicos",0.5858722925186157,True
+610,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+610,mecánica de fluidos.,"mecánica clásica, mecánica de materiales",0.6096448302268982,True
+611,econometría,"econometría, modelos econométricos",0.8846750855445862,True
+611,macroeconomía,"macroeconomía, microeconomía",0.8653563857078552,True
+612,diseño de estructuras,"cálculo estructural, diseño estructural, geología estructural",0.7639554142951965,True
+613,base de datos distribuidas,base de datos,0.8279718160629272,True
+614,sep,"arcgis, qgis",0.7830688953399658,True
+614,máquinas,"mecánica clásica, mecánica de materiales",0.5478918552398682,True
+615,automatización de plcs,arquitectura de computadoras,0.5943994522094727,True
+616,termodinámica,"termodinámica, termodinámica química",0.8636063933372498,True
+616,elementos de máquinas,"mecánica clásica, mecánica de materiales",0.670392632484436,True
+616,itinerarios y problemas de ingeniería,planificación de obras,0.6498069167137146,True
+617,control industrial,control de procesos,0.6984515190124512,True
+617,instalaciones eléctricas industriales,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.790962815284729,True
+617,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+617,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+617,accionamientos electrónicos,"electrónica, electrónica analógica, electrónica digital ...",0.67061448097229,True
+617,redes industriales,redes,0.7059162855148315,True
+617,mandos neumáticos,"mecánica clásica, mecánica de materiales",0.47673484683036804,True
+618,electrónica de potencia,"distribución eléctrica, generación eléctrica",0.746648371219635,True
+618,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+618,control,control de procesos,0.7509562969207764,True
+619,plc,producción,0.6153578758239746,True
+619,control industrial,control de procesos,0.6984515190124512,True
+619,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+619,sistemas embebidos,sistemas de información,0.6538718938827515,True
+620,mecánica de fluodos,"mecánica clásica, mecánica de materiales",0.7083536386489868,True
+621,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+621,lineas de producción,producción,0.8207091093063354,True
+621,logística y abastecimiento,"logística, supply chain",0.8895682096481323,True
+621,programación de la producción,producción,0.8597139120101929,True
+621,cadena de suministro.,"logística, supply chain",0.7936087846755981,True
+622,sistemas microprocesados,control de procesos,0.45995572209358215,True
+622,redes industriales,redes,0.7059162855148315,True
+622,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+622,control de procesos industriales,control de procesos,0.820083737373352,True
+623,balance de masa,balances de materia y energía,0.7150654792785645,True
+623,ingeniería financiera,"finanzas, mercados financieros",0.6801574230194092,True
+623,química analítica,"termodinámica, termodinámica química",0.576936662197113,True
+623,química orgánica,"termodinámica, termodinámica química",0.4658401906490326,True
+624,estadística y probabilidad,"econometría, modelos econométricos",0.5029822587966919,True
+624,matemática actuarial,"cálculo, cálculo numérico",0.6510437726974487,True
+624,modelos de riesgos,"econometría, modelos econométricos",0.5714070796966553,True
+624,simulación,"simulación, simulación de procesos",0.8576294779777527,True
+624,series temporales,just in time,0.567404568195343,True
+625,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+626,logística y distribución,"logística, supply chain",0.8606815338134766,True
+626,gestión de procesos y calidad,"administración de empresas, gestión de calidad, gestión de datos ...",0.7262264490127563,True
+627,diseño de plantas,"diseño de pcb, diseño de plantas",0.7458471059799194,True
+627,ingeniería de la reacción,"react, revit",0.6133780479431152,True
+628,modelos de riesgo,"econometría, modelos econométricos",0.5941331386566162,True
+628,simulación,"simulación, simulación de procesos",0.8576294779777527,True
+628,multivariante,"cálculo, cálculo numérico",0.5214912295341492,True
+629,operaciones unitarias y preservación y conservación de alimentos,procesamiento de alimentos,0.7236453294754028,True
+630,control electromecánica,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.58572918176651,True
+630,electricidad,"distribución eléctrica, generación eléctrica",0.7942204475402832,True
+630,control y sistemas hmi,control de procesos,0.6835587620735168,True
+630,electrónica,"electrónica, electrónica analógica, electrónica digital ...",0.7630320191383362,True
+631,cursos de sep,"aprendizaje no supervisado, aprendizaje supervisado",0.5267183780670166,True
+631,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+631,optimización,"optimización, optimización de procesos",0.8372970819473267,True
+632,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+632,climatología y metereologia,"modelado ambiental, modelado geológico",0.5778872966766357,True
+632,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+632,microbiología,"macroeconomía, microeconomía",0.4226949214935303,False
+633,hormigón,"arcgis, qgis",0.6921799778938293,True
+633,estructuras planas y ética,"estructura de datos, estructuras",0.5202040672302246,True
+634,intranets,redes,0.6226091384887695,True
+635,materiales,"mecánica clásica, mecánica de materiales",0.7035009264945984,True
+635,cad,modelado,0.4908674955368042,True
+635,ensayos no destructivos,"corrosión, regresión",0.6053988337516785,True
+636,producción,producción,1.0000001192092896,True
+636,proyectos,planificación de obras,0.7360752820968628,True
+636,logística,"logística, supply chain",0.8192185163497925,True
+637,calidad de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.49572914838790894,True
+637,diseño de software,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.6697224974632263,True
+637,interacción humano computador,arquitectura de computadoras,0.5643225908279419,True
+638,tcp,redes,0.549391508102417,True
+639,redes lan,redes,0.9239083528518677,True
+639,redes wan,redes,0.8254303932189941,True
+639,intranets,redes,0.6226091384887695,True
+640,desarrollo de aplicaciones móviles,"ingeniería de procesos, ingeniería de producción, ingeniería de software",0.3864196240901947,False
+640,iot,"arcgis, qgis",0.7635585069656372,True
+640,redes,redes,1.0,True
+641,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+641,instrumentación biomédica,"instrumentación, instrumentación científica",0.6792521476745605,True
+641,visión artificial,visualización de datos,0.6031345129013062,True
+642,aplicaciones web con el phd. iñiguez al igual que hci. calidad con la phd. sandra sancehz de igual forma.,arquitectura de computadoras,0.4386357069015503,False
+643,ia- programacionorientada a objetos,"matemática aplicada, programación matemática",0.562633752822876,True
+644,fisicoquímica,"termodinámica, termodinámica química",0.6175051331520081,True
+644,química analítica,"termodinámica, termodinámica química",0.576936662197113,True
+644,mecánica de fluidos,"mecánica clásica, mecánica de materiales",0.609346866607666,True
+644,polímeros,"mecánica clásica, mecánica de materiales",0.38633275032043457,False
+645,gestión de desechos,control de procesos,0.442038893699646,False
+646,seguridades y redes de la siguiente generación,"ciberseguridad, seguridad informática",0.7665872573852539,True
+647,automatización utilizando plcs,arquitectura de computadoras,0.5855941772460938,True
+647,redes industriales,redes,0.7059162855148315,True
+647,instrumentación industrial,"instrumentación, instrumentación científica",0.7529123425483704,True
+648,petrografía,"cartografía, topografía",0.43198972940444946,False
+648,exploración de yacimientos,"cartografía, topografía",0.6664982438087463,True
+648,yacimientos minerales,"modelado ambiental, modelado geológico",0.5824037790298462,True
+648,geología del petróleo,"modelado ambiental, modelado geológico",0.5564537048339844,True
+648,geología del ecuador,"geofísica, geomecánica, geotecnia",0.629956841468811,True
+649,estudio de impacto ambiental,"legislación ambiental, normas ambientales",0.6560167074203491,True
+649,economía ambiental,"legislación ambiental, normas ambientales",0.6844559907913208,True
+649,química,"termodinámica, termodinámica química",0.5813360810279846,True
+649,biología,redes neuronales,0.47366052865982056,True
+649,calidad del agua,"tratamiento de aguas, tratamientos térmicos",0.6286100149154663,True
+649,sig,"arcgis, qgis",0.7662829160690308,True
+649,meteorología y climatología,"modelado ambiental, modelado geológico",0.4235053062438965,False
+649,residuos sólidos municipales,"corrosión, regresión",0.46805432438850403,True
+649,legislación ambiental,"legislación ambiental, normas ambientales",0.9445570707321167,True
+649,seguridad y salud ocupacional,"ciberseguridad, seguridad informática",0.46769973635673523,True
+649,gestión integral de residuos peligrosos,"costos, costos industriales",0.43975961208343506,False
+650,instrumentación,"instrumentación, instrumentación científica",0.8375049829483032,True
+650,plcs,producción,0.5817228555679321,True
+650,redes,redes,1.0,True
+651,automatización con plcs,arquitectura de computadoras,0.5792226791381836,True
+651,redes industriales,redes,0.7059162855148315,True
+652,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+652,simulación,"simulación, simulación de procesos",0.8576294779777527,True
+652,transferencias,"logística, supply chain",0.38785696029663086,False
+652,gestión empresarial,"administración de empresas, gestión de calidad, gestión de datos ...",0.6567891836166382,True
+653,recursos humanos,modelado,0.45174694061279297,True
+653,administración,"administración de empresas, gestión de calidad, gestión de datos ...",0.5447752475738525,True
+653,estadística,"cálculo, cálculo numérico",0.5465807914733887,True
+654,desarrollo de apps web,"css, desarrollo web, html ...",0.5711677074432373,True
+654,análisis de datos,"análisis de datos, análisis de materiales, análisis de sistemas ...",0.721845269203186,True
+654,redes,redes,1.0,True
+655,control electromecánico,"instalaciones eléctricas, mediciones eléctricas, protecciones eléctricas",0.6020345687866211,True
+656,análisis funcional (que la quitaron en lugar de dividirla en 2 semestres y que sea dada por un matemático),"cálculo, cálculo numérico",0.5464794039726257,True
+656,álgebra i (que debería combinarse con álgebra lineal y dividirse en 2 semestres),"cálculo, cálculo numérico",0.5902469158172607,True
+656,edo,"arcgis, qgis",0.8038453459739685,True
+656,mecánica cuántica i y ii,"teoría cuántica, teoría de juegos, teoría de números",0.6521714925765991,True
+656,electrodinámica i y ii,"electrónica, electrónica analógica, electrónica digital ...",0.7531231045722961,True
+656,mecánica clásica i,"mecánica clásica, mecánica de materiales",0.9067414999008179,True
+656,y ii,"arcgis, qgis",0.7900528907775879,True
+656,ondas (underrated),"instrumentación, instrumentación científica",0.35713860392570496,False
+656,mecánica estadística (que debería unirse con termodinámica,"termodinámica, termodinámica química",0.7002944350242615,True
+656,dividirse en 2 semestres y ser enseñada de una mejor manera).,"aprendizaje no supervisado, aprendizaje supervisado",0.4808942973613739,True
+657,cálculo,"cálculo, cálculo numérico",0.8923252820968628,True
+657,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+657,física,modelado,0.679757833480835,True
+658,poo,"arcgis, qgis",0.620733380317688,True
+659,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+660,probabilidad y estadística,"econometría, modelos econométricos",0.48282986879348755,True
+660,inteligencia artificial,"deep learning, inteligencia artificial, machine learning",0.6735423803329468,True
+660,recuperación de la información,sistemas de información,0.6435525417327881,True
+660,cloud computing,arquitectura de computadoras,0.5563216209411621,True
+661,termodinámica i,"termodinámica, termodinámica química",0.8852309584617615,True
+661,transferencia de calor i,"termodinámica, termodinámica química",0.6089079976081848,True
+661,transferencia de calor ii,"termodinámica, termodinámica química",0.595125675201416,True
+661,operaciones unitarias i y ii,"cálculo, cálculo numérico",0.631433367729187,True
+661,modelado y control automático,modelado,0.6897774934768677,True
+661,microbiología y conservación de los alimentos,procesamiento de alimentos,0.6360881328582764,True
+662,scada,"arcgis, qgis",0.6555919647216797,True
+662,redes industriales,redes,0.7059162855148315,True
+662,programación,"matemática aplicada, programación matemática",0.6200267672538757,True
+662,control embebido,control de procesos,0.6984394788742065,True
+663,microcontroladores,"electrónica, electrónica analógica, electrónica digital ...",0.45621663331985474,True
+663,control embebido,control de procesos,0.6984394788742065,True
+664,comunicación inalámbrica,protocolos de comunicación,0.7823967337608337,True
+664,telemática,"telefonía ip, voz sobre ip",0.6200430393218994,True

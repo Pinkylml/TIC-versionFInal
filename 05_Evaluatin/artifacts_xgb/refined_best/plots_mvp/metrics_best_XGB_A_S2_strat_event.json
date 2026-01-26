@@ -1,0 +1,9 @@
+{
+  "dataset": "A",
+  "split": "S2_strat_event",
+  "n_train": 532,
+  "n_test": 133,
+  "cindex_test": 0.6160683760683761,
+  "ibs_test": 0.15110661477122922,
+  "mean_auc": 0.6404029996755508
+}

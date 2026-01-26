@@ -1,0 +1,98 @@
+[
+  {
+    "dataset": "A",
+    "split": "S1_random",
+    "model_file": "artifacts_xgb/models/xgb_aft_A_S1_random.json",
+    "best_params": {
+      "max_depth": 3,
+      "eta": 0.025246751397288002,
+      "subsample": 0.943439167964553,
+      "colsample_bytree": 0.8789472116237456,
+      "min_child_weight": 1.8475961309888458,
+      "lambda": 4.878111758183779,
+      "alpha": 1.522279403980706,
+      "aft_loss_distribution": "extreme",
+      "aft_loss_distribution_scale": 1.9322544016001184
+    }
+  },
+  {
+    "dataset": "A",
+    "split": "S2_strat_event",
+    "model_file": "artifacts_xgb/models/xgb_aft_A_S2_strat_event.json",
+    "best_params": {
+      "max_depth": 9,
+      "eta": 0.00790689707988113,
+      "subsample": 0.9710250204026031,
+      "colsample_bytree": 0.7590312775299762,
+      "min_child_weight": 3.7085382260284576,
+      "lambda": 2.442920226757667,
+      "alpha": 1.3257284255271649,
+      "aft_loss_distribution": "normal",
+      "aft_loss_distribution_scale": 2.8551127078884506
+    }
+  },
+  {
+    "dataset": "A",
+    "split": "S3_strat_carrera",
+    "model_file": "artifacts_xgb/models/xgb_aft_A_S3_strat_carrera.json",
+    "best_params": {
+      "max_depth": 9,
+      "eta": 0.00790689707988113,
+      "subsample": 0.9710250204026031,
+      "colsample_bytree": 0.7590312775299762,
+      "min_child_weight": 3.7085382260284576,
+      "lambda": 2.442920226757667,
+      "alpha": 1.3257284255271649,
+      "aft_loss_distribution": "normal",
+      "aft_loss_distribution_scale": 2.8551127078884506
+    }
+  },
+  {
+    "dataset": "B",
+    "split": "S1_random",
+    "model_file": "artifacts_xgb/models/xgb_aft_B_S1_random.json",
+    "best_params": {
+      "max_depth": 9,
+      "eta": 0.00790689707988113,
+      "subsample": 0.9710250204026031,
+      "colsample_bytree": 0.7590312775299762,
+      "min_child_weight": 3.7085382260284576,
+      "lambda": 2.442920226757667,
+      "alpha": 1.3257284255271649,
+      "aft_loss_distribution": "normal",
+      "aft_loss_distribution_scale": 2.8551127078884506
+    }
+  },
+  {
+    "dataset": "B",
+    "split": "S2_strat_event",
+    "model_file": "artifacts_xgb/models/xgb_aft_B_S2_strat_event.json",
+    "best_params": {
+      "max_depth": 10,
+      "eta": 0.0323688962489445,
+      "subsample": 0.8777049742571545,
+      "colsample_bytree": 0.832446643688361,
+      "min_child_weight": 2.7979808649405187,
+      "lambda": 4.020622630911314,
+      "alpha": 1.4308142592316033,
+      "aft_loss_distribution": "normal",
+      "aft_loss_distribution_scale": 1.7337401388620992
+    }
+  },
+  {
+    "dataset": "B",
+    "split": "S3_strat_carrera",
+    "model_file": "artifacts_xgb/models/xgb_aft_B_S3_strat_carrera.json",
+    "best_params": {
+      "max_depth": 9,
+      "eta": 0.00790689707988113,
+      "subsample": 0.9710250204026031,
+      "colsample_bytree": 0.7590312775299762,
+      "min_child_weight": 3.7085382260284576,
+      "lambda": 2.442920226757667,
+      "alpha": 1.3257284255271649,
+      "aft_loss_distribution": "normal",
+      "aft_loss_distribution_scale": 2.8551127078884506
+    }
+  }
+]
