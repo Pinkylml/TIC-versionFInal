@@ -1,0 +1,812 @@
+[
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "66.5%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "66.1%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "65.3%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.9%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.8%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.6%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.1%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.0%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "64.0%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.9%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.9%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.9%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.8%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.8%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.7%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.5%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.3%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.0%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.0%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.0%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.0%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "63.0%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "62.9%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "62.9%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "62.6%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "62.4%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "62.0%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.6%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.5%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.5%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.5%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.5%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.5%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.4%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.4%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.4%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 2,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.4%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.3%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.3%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "61.0%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.8%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.6%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.4%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.4%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.4%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.3%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.3%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.2%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.2%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "60.1%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.8%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.7%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.5%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.5%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.5%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.4%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.4%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.4%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.3%"
+  },
+  {
+    "Career": "SOFTWARE",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.3%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.3%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.3%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.2%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "59.1%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.3%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.3%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.2%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.2%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.2%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 0,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.2%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.0%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "58.0%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.9%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.8%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.8%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.8%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.7%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.7%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.7%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 1.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.7%"
+  },
+  {
+    "Career": "MEC\u00c1NICA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.6%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.5%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.5%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 5.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "57.4%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "56.0%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "56.0%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Female",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "55.9%"
+  },
+  {
+    "Career": "ECONOM\u00cdA",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "55.8%"
+  },
+  {
+    "Career": "COMPUTACI\u00d3N",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "55.7%"
+  },
+  {
+    "Career": "ADMINISTRACI\u00d3N DE EMPRESAS",
+    "Skill_Level": 3.0,
+    "Gender": "Male",
+    "Tech_Skills_Count": 5,
+    "p50_meses": 6.0,
+    "p25_meses": 4.0,
+    "Prob_6m": "55.7%"
+  }
+]

@@ -1,0 +1,27 @@
+================================================================================
+CONFIGURACIONES ÓPTIMAS PARA INSERCIÓN RÁPIDA (p50 < 3 meses)
+================================================================================
+
+Total configuraciones óptimas: 30
+p50 mínimo alcanzado: 2.62 meses
+p50 máximo en óptimas: 2.62 meses
+
+GUÍA DE REPLICACIÓN:
+--------------------------------------------------------------------------------
+
+
+### CONFIGURACIÓN: Excelente_All
+Cantidad de perfiles óptimos: 30
+p50 promedio: 2.62 meses
+Carreras compatibles: REDES Y TELECOMUNICACIONES
+
+EJEMPLO DE CONFIGURACIÓN:
+  S1 (Comunicación Esp): 5
+  S2 (Compromiso Ético): 5
+  S3 (Trabajo Equipo): 5
+  S4 (Resp. Social): 5
+  S5 (Gestión Proyectos): 5
+  S6 (Aprendizaje Digital): 5
+  S7 (Inglés): 5
+  Edad recomendada: 28
+

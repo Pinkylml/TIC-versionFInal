@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictor de Inserción Laboral - EPN</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root {
+            --epn-blue: #003DA5;
+            --epn-blue-light: #0056D6;
+            --epn-blue-dark: #002D7A;
+            --fis-accent: #00A8E8;
+        }
+
+        .epn-gradient {
+            background: linear-gradient(135deg, var(--epn-blue) 0%, var(--epn-blue-light) 100%);
+        }
+
+        .sticky-results {
+            position: sticky;
+            top: 5rem;
+            /* Ajustado para el nuevo botón */
+            max-height: calc(100vh - 7rem);
+            overflow-y: auto;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: help;
+        }
+
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 280px;
+            background-color: #1e293b;
+            color: #fff;
+            text-align: left;
+            border-radius: 12px;
+            padding: 14px;
+            position: absolute;
+            z-index: 50;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -140px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 0.75rem;
+            line-height: 1.5;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            font-weight: 500;
+        }
+
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .sticky-results::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        .sticky-results::-webkit-scrollbar-thumb {
+            background: #cbd5e1;
+            border-radius: 2px;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+        }
+
+        /* Mejora de visibilidad de sliders */
+        input[type=range]::-webkit-slider-runnable-track {
+            background: #e2e8f0;
+            height: 8px;
+            border-radius: 4px;
+        }
+
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 20px;
+            width: 20px;
+            border-radius: 50%;
+            background: var(--epn-blue);
+            margin-top: -6px;
+            box-shadow: 0 0 10px rgba(0, 61, 165, 0.3);
+        }
+    </style>
+</head>
+
+<body class="bg-slate-50 min-h-screen text-slate-900 font-sans">
+    <header class="epn-gradient text-white p-5 shadow-xl sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto flex justify-between items-center">
+            <div class="flex items-center gap-4">
+                <div
+                    class="h-10 w-10 bg-white/20 rounded-lg flex items-center justify-center font-black text-xl italic">
+                    Σ</div>
+                <div>
+                    <h1 class="text-xl font-black tracking-tighter uppercase">Predictor de Inserción Temprana</h1>
+                    <p class="text-[0.6rem] text-blue-100 font-bold tracking-widest uppercase opacity-80">EPN - Facultad
+                        de Ingeniería de Sistemas | RSF v2.2</p>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-6">
+                <div id="status-indicator"
+                    class="hidden flex items-center gap-2 bg-emerald-500/20 px-3 py-1.5 rounded-full text-[0.6rem] border border-emerald-500/30">
+                    <span class="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></span>
+                    <span class="font-black uppercase tracking-tighter text-emerald-100">Procesando...</span>
+                </div>
+                <!-- Botón de Inferencia Dual (Superior para visibilidad) -->
+                <button onclick="predict()"
+                    class="bg-white text-blue-900 px-6 py-2.5 rounded-xl font-black text-[0.65rem] tracking-widest shadow-lg hover:bg-blue-50 hover:scale-105 active:scale-95 transition-all uppercase">
+                    Calcular Ahora ⚡
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto p-4 lg:p-8">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+
+            <!-- Left: Settings -->
+            <div class="lg:col-span-7 space-y-8">
+                <section class="bg-white p-8 rounded-3xl shadow-sm border border-slate-200 relative overflow-hidden">
+
+                    <div class="flex items-center justify-between mb-10">
+                        <h2 class="text-lg font-black text-slate-900 flex items-center gap-3">
+                            <span class="p-2 bg-blue-50 text-blue-600 rounded-xl">📊</span>
+                            Configuración de Perfil
+                        </h2>
+                    </div>
+
+                    <!-- Career & Demographics -->
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+                        <div class="space-y-3">
+                            <label
+                                class="block text-[0.7rem] font-bold text-slate-700 uppercase tracking-widest flex items-center gap-2">
+                                Carrera de Ingeniería
+                                <div class="tooltip text-slate-400">ⓘ <span class="tooltiptext">Mapeo basado en el
+                                        instrumento EPN 2025.</span></div>
+                            </label>
+                            <select id="Carrera"
+                                class="w-full border-2 border-slate-200 p-3.5 rounded-2xl bg-white focus:border-blue-500 focus:ring-4 focus:ring-blue-500/10 outline-none transition-all text-sm font-black text-slate-800">
+                                <option value="(RRA20) SOFTWARE">SOFTWARE</option>
+                                <option value="(RRA20) COMPUTACIÓN">COMPUTACIÓN</option>
+                                <option value="(RRA20) DESARROLLO DE SOFTWARE">DESARROLLO DE SOFTWARE</option>
+                                <option value="(RRA20) TECNOLOGÍAS DE LA INFORMACIÓN">TECNOLOGÍAS DE LA INFORMACIÓN
+                                </option>
+                                <option value="(RRA20) REDES Y TELECOMUNICACIONES">REDES Y TELECOMUNICACIONES</option>
+                                <option value="(RRA20) TELECOMUNICACIONES">TELECOMUNICACIONES</option>
+                                <option value="(RRA20) ELECTRÓNICA Y AUTOMATIZACIÓN">ELECTRÓNICA Y AUTOMATIZACIÓN
+                                </option>
+                                <option value="(RRA20) ELECTRICIDAD">ELECTRICIDAD</option>
+                                <option value="(RRA20) ELECTROMECÁNICA">ELECTROMECÁNICA</option>
+                                <option value="(RRA20) MECÁNICA">MECÁNICA</option>
+                                <option value="(RRA20) INGENIERÍA CIVIL">INGENIERÍA CIVIL</option>
+                                <option value="(RRA20) INGENIERÍA QUÍMICA">INGENIERÍA QUÍMICA</option>
+                                <option value="(RRA20) INGENIERÍA AMBIENTAL">INGENIERÍA AMBIENTAL</option>
+                                <option value="(RRA20) PETRÓLEOS">PETRÓLEOS</option>
+                                <option value="(RRA20) GEOLOGÍA">GEOLOGÍA</option>
+                                <option value="(RRA20) AGUA Y SANEAMIENTO AMBIENTAL">AGUA Y SANEAMIENTO AMBIENTAL
+                                </option>
+                                <option value="(RRA20) AGROINDUSTRIA">AGROINDUSTRIA</option>
+                                <option value="(RRA20) ADMINISTRACIÓN DE EMPRESAS">ADMINISTRACIÓN DE EMPRESAS</option>
+                                <option value="(RRA20) INGENIERÍA EMPRESARIAL">INGENIERÍA EMPRESARIAL</option>
+                                <option value="(RRA20) INGENIERÍA DE LA PRODUCCIÓN">INGENIERÍA DE LA PRODUCCIÓN</option>
+                                <option value="(RRA20) ECONOMÍA">ECONOMÍA</option>
+                                <option value="(RRA20) INGENIERÍA EN CIENCIAS ECONÓMICAS Y FINANCIERAS">ING. CIENCIAS
+                                    ECONÓMICAS</option>
+                                <option value="(RRA20) FÍSICA">FÍSICA</option>
+                                <option value="(RRA20) MATEMÁTICA">MATEMÁTICA</option>
+                                <option value="(RRA20) MATEMÁTICA APLICADA">MATEMÁTICA APLICADA</option>
+                            </select>
+                        </div>
+                        <div class="grid grid-cols-2 gap-4">
+                            <div class="space-y-3">
+                                <label
+                                    class="block text-[0.7rem] font-bold text-slate-700 uppercase tracking-widest">Edad
+                                    al Grado</label>
+                                <input type="number" id="Edad" value="23" min="15" max="99"
+                                    class="w-full border-2 border-slate-200 p-3.5 rounded-2xl bg-white focus:border-blue-500 outline-none text-sm font-black text-slate-800">
+                            </div>
+                            <div class="space-y-3">
+                                <label
+                                    class="block text-[0.7rem] font-bold text-slate-700 uppercase tracking-widest">Género</label>
+                                <select id="Genero_bin"
+                                    class="w-full border-2 border-slate-200 p-3.5 rounded-2xl bg-white focus:border-blue-500 outline-none text-sm font-black text-slate-800">
+                                    <option value="0">Femenino</option>
+                                    <option value="1" selected>Masculino</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Soft Skills Sliders -->
+                    <div class="space-y-12 mb-14">
+                        <div class="flex items-center gap-3 border-b-2 border-slate-100 pb-4">
+                            <h3 class="text-[0.75rem] font-black text-slate-900 uppercase tracking-[0.2em]">Habilidades
+                                Socioemocionales (EUR-ACE)</h3>
+                        </div>
+                        <div id="inputs" class="grid grid-cols-1 md:grid-cols-2 gap-y-14 gap-x-16">
+                            <!-- JS Injection with tooltips -->
+                        </div>
+                    </div>
+
+                    <!-- NLP Technical Skills -->
+                    <div class="mt-8 rounded-3xl border border-slate-100 bg-slate-50/50">
+                        <details class="group">
+                            <summary
+                                class="p-6 cursor-pointer flex items-center justify-between font-black text-slate-900 group-open:bg-white transition-all select-none rounded-[1.5rem]">
+                                <div class="flex items-center gap-4">
+                                    <span class="text-xl">💎</span>
+                                    <span class="text-xs tracking-widest uppercase opacity-80">Habilidades Técnicas y
+                                        Herramientas</span>
+                                </div>
+                                <span
+                                    class="h-8 w-8 rounded-full bg-slate-100 flex items-center justify-center group-open:rotate-180 transition-transform">▼</span>
+                            </summary>
+                            <div class="p-8 bg-white grid grid-cols-2 md:grid-cols-3 gap-5 border-t border-slate-50">
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="react, revit"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span class="text-[0.65rem] font-black text-slate-700 uppercase">Frontend /
+                                        BIM</span>
+                                </label>
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="sql, python"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span
+                                        class="text-[0.65rem] font-black text-slate-700 uppercase">Analytics/SQL</span>
+                                </label>
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="simulación"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span class="text-[0.65rem] font-black text-slate-700 uppercase">Simulación
+                                        Proc.</span>
+                                </label>
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="seguridad"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span
+                                        class="text-[0.65rem] font-black text-slate-700 uppercase">Ciberseguridad</span>
+                                </label>
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="finanzas"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span
+                                        class="text-[0.65rem] font-black text-slate-700 uppercase">Mercados/Fin.</span>
+                                </label>
+                                <label
+                                    class="flex items-center space-x-4 p-4 rounded-2xl border-2 border-slate-100 hover:border-blue-200 hover:bg-blue-50 transition-all cursor-pointer">
+                                    <input type="checkbox" id="arquitectura"
+                                        class="tech-skill w-6 h-6 rounded-lg text-blue-600 border-2 border-slate-300">
+                                    <span class="text-[0.65rem] font-black text-slate-700 uppercase">Arq.
+                                        Computad.</span>
+                                </label>
+                            </div>
+                        </details>
+                    </div>
+
+                    <!-- Predict button (Always visible at the end of settings) -->
+                    <div class="mt-12">
+                        <button onclick="predict()"
+                            class="epn-gradient text-white w-full py-6 rounded-3xl font-black text-sm tracking-[0.3em] shadow-xl hover:shadow-blue-900/40 hover:scale-[1.01] active:scale-95 transition-all uppercase flex items-center justify-center gap-4">
+                            Calcular Probabilidades
+                        </button>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Right: Results -->
+            <div class="lg:col-span-5 sticky-results">
+                <section id="results-container"
+                    class="glass-card rounded-[2.5rem] shadow-2xl border border-white overflow-hidden flex flex-col min-h-[600px]">
+                    <div id="no-results"
+                        class="flex-grow flex flex-col items-center justify-center p-12 text-center space-y-6">
+                        <div
+                            class="w-24 h-24 bg-blue-100/50 text-blue-900 rounded-[2.5rem] flex items-center justify-center text-5xl animate-bounce">
+                            🎯</div>
+                        <div>
+                            <h3 class="font-black text-slate-900 text-sm uppercase tracking-[0.2em]">Inferencia
+                                Estadística</h3>
+                            <p class="text-[0.75rem] text-slate-500 mt-4 leading-relaxed font-bold">Configure el perfil
+                                a la izquierda y presione el botón de la cabecera o el final para ver los resultados.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div id="results-content" class="hidden animate-in zoom-in-95 duration-500">
+                        <div class="bg-slate-900 text-white p-10">
+                            <h2 class="text-2xl font-black tracking-tighter mb-1 uppercase italic">Probabilidades de
+                                Éxito</h2>
+                            <p class="text-[0.6rem] font-bold text-blue-400 uppercase tracking-[0.3em]">Ventana de
+                                Inserción: 0.0 - 6.0 Meses</p>
+                        </div>
+
+                        <div class="p-8 space-y-10">
+                            <!-- Main Probability Card -->
+                            <div class="bg-blue-600 text-white p-8 rounded-[2.5rem] shadow-xl relative overflow-hidden">
+                                <div class="flex items-center justify-between mb-4">
+                                    <p class="text-[0.65rem] font-black uppercase tracking-[0.2em] opacity-80 italic">
+                                        Éxito en Primer Semestre (Prob@6m)</p>
+                                    <div class="tooltip text-white/50 hover:text-white">ⓘ <span
+                                            class="tooltiptext">Indica la probabilidad acumulada de haber iniciado la
+                                            actividad laboral antes de los 180 días post-grado.</span></div>
+                                </div>
+                                <div class="flex items-baseline gap-3">
+                                    <span id="prob_display"
+                                        class="text-7xl font-black tracking-tighter italic">--</span>
+                                    <span class="text-3xl font-bold opacity-70">%</span>
+                                </div>
+                                <div class="mt-8 h-3 bg-white/20 rounded-full overflow-hidden">
+                                    <div id="prob_progress"
+                                        class="h-full bg-white shadow-lg transition-all duration-[2s] ease-out"
+                                        style="width: 0%"></div>
+                                </div>
+                            </div>
+
+                            <!-- Percentiles with Explanation -->
+                            <div class="grid grid-cols-2 gap-5">
+                                <div class="bg-slate-100/80 p-6 rounded-3xl border border-slate-200">
+                                    <div class="flex items-center gap-2 mb-3">
+                                        <p class="text-[0.6rem] font-black text-slate-500 uppercase tracking-tighter">
+                                            Primer Cuartil (p25)</p>
+                                        <div class="tooltip text-slate-400">ⓘ <span class="tooltiptext">**p25**: El
+                                                tiempo en el que el primer 25% de los graduados ya ha conseguido empleo.
+                                                Define a los "perfiles más veloces".</span></div>
+                                    </div>
+                                    <div class="flex items-baseline gap-2">
+                                        <span id="p25_display"
+                                            class="text-3xl font-black text-slate-900 italic">--</span>
+                                        <span class="text-[0.7rem] font-bold text-slate-500 uppercase">meses</span>
+                                    </div>
+                                </div>
+                                <div id="p50_container" class="bg-slate-900 text-white p-6 rounded-3xl">
+                                    <div class="flex items-center gap-2 mb-3">
+                                        <p
+                                            class="text-[0.6rem] font-black opacity-50 uppercase tracking-tighter italic">
+                                            Mediana (p50)</p>
+                                        <div class="tooltip text-blue-400">ⓘ <span class="tooltiptext">**p50**: Momento
+                                                en el que exactamente la mitad del grupo ya está insertado. Si es ">
+                                                6.0", la mayoría tarda más de un semestre.</span></div>
+                                    </div>
+                                    <div class="flex items-baseline gap-2">
+                                        <span id="p50_display"
+                                            class="text-3xl font-black text-blue-400 italic">--</span>
+                                        <span id="p50_label"
+                                            class="text-[0.7rem] font-bold opacity-50 uppercase">meses</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Curve -->
+                            <div class="bg-white p-6 rounded-[2.5rem] border border-slate-100 shadow-sm">
+                                <h3 class="text-[0.65rem] font-black text-slate-400 uppercase tracking-widest mb-6">
+                                    S(t): Curva de Supervivencia (Desempleo)</h3>
+                                <div class="h-[220px]">
+                                    <canvas id="survivalChart"></canvas>
+                                </div>
+                            </div>
+
+                            <!-- Narrative -->
+                            <div id="report-narrative"
+                                class="bg-blue-50/50 p-6 rounded-3xl border-l-[6px] border-blue-600">
+                                <h4 class="text-[0.7rem] font-black text-blue-900 uppercase mb-3 italic">Observación
+                                    Metodológica</h4>
+                                <p id="interpretationText"
+                                    class="text-[0.75rem] text-slate-700 leading-relaxed font-bold"></p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+        <section class="mt-16 bg-white p-10 rounded-[3rem] border border-slate-100 shadow-sm">
+            <h4 class="text-[0.7rem] font-black text-slate-400 uppercase tracking-[0.5em] mb-10 text-center italic">
+                Marco Referencial EPN</h4>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 text-[0.7rem] text-slate-600 font-medium">
+                <div class="p-6 bg-slate-50 rounded-[2rem]">
+                    <p class="font-black text-blue-900 uppercase tracking-tighter mb-2">Cando Santos, J. S. (2026)</p>
+                    <p>"Aplicación de ciencia de datos para la evaluación y fortalecimiento de habilidades blandas..."
+                        Trabajo de Integración Curricular.</p>
+                </div>
+                <div class="p-6 bg-slate-50 rounded-[2rem]">
+                    <p class="font-black text-blue-900 uppercase tracking-tighter mb-2">Alineación EUR-ACE</p>
+                    <p>Las habilidades evaluadas siguen las definiciones de la Red Europea para la Acreditación de la
+                        Educación en Ingeniería.</p>
+                </div>
+                <div class="p-6 bg-slate-50 rounded-[2rem]">
+                    <p class="font-black text-blue-900 uppercase tracking-tighter mb-2">Horizonte Temporal</p>
+                    <p>El seguimiento del dataset base ($N=665$) se centra en la "Inserción Temprana" (primeros 6 meses
+                        post-grado).</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="mt-12 py-16 bg-slate-900 text-slate-500">
+        <div class="max-w-7xl mx-auto px-10 flex flex-col md:flex-row justify-between items-center gap-10">
+            <div class="text-center md:text-left">
+                <p class="text-[0.8rem] font-black text-white uppercase tracking-[0.6em] mb-3 italic italic">STEM-TIC
+                    Research Project</p>
+                <p class="text-[0.65rem] opacity-40 uppercase tracking-widest font-bold">Desarrollado para la Facultad
+                    de Ingeniería de Sistemas - EPN</p>
+            </div>
+            <div class="flex gap-8 grayscale brightness-200 opacity-40">
+                <span class="text-xs font-black italic tracking-tighter">FIS-EPN</span>
+                <span class="text-xs font-black italic tracking-tighter">RSF_ENGINE</span>
+                <span class="text-xs font-black italic tracking-tighter">V2.2_STABLE</span>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        constEUR_ACE_DEFS = {
+            S1: "Capacidad para expresarse con claridad, coherencia y adecuación, tanto de forma oral como escrita, en contextos profesionales, académicos y sociales (Español).",
+            S2: "Actuar con responsabilidad, honestidad y respeto a la diversidad y al marco normativo, con capacidad de autocrítica y sentido de responsabilidad social.",
+            S3: "Participación activa en equipos diversos, con habilidades de negociación, resolución de conflictos y ejercicio de un liderazgo colaborativo.",
+            S4: "Comprensión crítica de los impactos sociales, ambientales y económicos de la práctica profesional de la ingeniería.",
+            S5: "Planificación, organización y administración eficiente de recursos humanos, financieros, materiales y tecnológicos.",
+            S6: "Uso ético, crítico y eficiente de tecnologías emergentes y existentes.",
+            S7: "Capacidad para expresarse con claridad, coherencia y adecuación en contextos técnicos internacionales (Nivel B2/Inglés)."
+        };
+
+        const skillsLabels = [
+            'S1: Comunicación Española',
+            'S2: Compromiso Ético',
+            'S3: Trabajo en Equipo / Liderazgo',
+            'S4: Responsabilidad Social',
+            'S5: Gestión de Proyectos',
+            'S6: Aprendizaje Digital',
+            'S7: Inglés'
+        ];
+
+        const inputDiv = document.getElementById('inputs');
+        [1, 2, 3, 4, 5, 6, 7].forEach(num => {
+            const id = `S${num}`;
+            const div = document.createElement('div');
+            div.className = "group relative border-b border-slate-50 pb-6";
+            div.innerHTML = `
+                <div class="flex justify-between items-center mb-6">
+                    <label class="text-[0.75rem] font-black text-slate-800 uppercase tracking-widest flex items-center gap-2">
+                        ${skillsLabels[num - 1]}
+                        <div class="tooltip text-blue-500 font-bold">ⓘ <span class="tooltiptext">${constEUR_ACE_DEFS[id]}</span></div>
+                    </label>
+                    <span id="valS${num}" class="text-[0.8rem] font-black text-blue-900 bg-blue-100 border-2 border-blue-200 px-3 py-1 rounded-xl">3.0</span>
+                </div>
+                <input type="range" id="S${num}" value="3.0" min="1.0" max="5.0" step="0.5" 
+                       oninput="document.getElementById('valS${num}').textContent = parseFloat(this.value).toFixed(1)"
+                       class="w-full h-2 bg-slate-200 rounded-full appearance-none cursor-pointer border-none transition-all">
+                <div class="flex justify-between mt-4 px-1">
+                    <span class="text-[0.6rem] font-black text-slate-400 uppercase italic">Debilidad</span>
+                    <span class="text-[0.6rem] font-black text-slate-400 uppercase italic">Excelencia</span>
+                </div>
+            `;
+            inputDiv.appendChild(div);
+        });
+
+        async function predict() {
+            const status = document.getElementById('status-indicator');
+            status.classList.remove('hidden');
+
+            const technicalSkills = {};
+            document.querySelectorAll('.tech-skill').forEach(checkbox => {
+                technicalSkills[checkbox.id] = checkbox.checked ? 1.0 : 0.0;
+            });
+
+            const data = {
+                S1: parseFloat(document.getElementById('S1').value),
+                S2: parseFloat(document.getElementById('S2').value),
+                S3: parseFloat(document.getElementById('S3').value),
+                S4: parseFloat(document.getElementById('S4').value),
+                S5: parseFloat(document.getElementById('S5').value),
+                S6: parseFloat(document.getElementById('S6').value),
+                S7: parseFloat(document.getElementById('S7').value),
+                Edad: parseInt(document.getElementById('Edad').value),
+                Genero_bin: parseInt(document.getElementById('Genero_bin').value),
+                Carrera: document.getElementById('Carrera').value,
+                technical_skills: technicalSkills
+            };
+
+            try {
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+                if (!response.ok) throw new Error(await response.text());
+                const result = await response.json();
+                displayResults(result);
+                if (window.innerWidth < 1024) document.getElementById('results-container').scrollIntoView({ behavior: 'smooth' });
+            } catch (err) {
+                alert("❌ Error en el Motor RSF: " + err.message);
+            } finally {
+                status.classList.add('hidden');
+            }
+        }
+
+        function displayResults(result) {
+            document.getElementById('no-results').classList.add('hidden');
+            document.getElementById('results-content').classList.remove('hidden');
+
+            const prob = result.prob_6m * 100;
+            const probDisplay = document.getElementById('prob_display');
+            const probProgress = document.getElementById('prob_progress');
+
+            let current = 0;
+            const step = prob / 30;
+            const interval = setInterval(() => {
+                current += step;
+                if (current >= prob) {
+                    probDisplay.textContent = prob.toFixed(1);
+                    clearInterval(interval);
+                } else {
+                    probDisplay.textContent = current.toFixed(1);
+                }
+            }, 30);
+
+            probProgress.style.width = prob + '%';
+
+            const formatP = (v) => v === -1.0 ? "> 6.0" : v.toFixed(1);
+            document.getElementById('p25_display').textContent = formatP(result.percentiles.p25);
+
+            const p50 = result.percentiles.p50;
+            const p50Disp = document.getElementById('p50_display');
+            const p50Cont = document.getElementById('p50_container');
+
+            p50Disp.textContent = formatP(p50);
+            if (p50 === -1.0) {
+                p50Cont.classList.remove('bg-slate-900', 'text-blue-400');
+                p50Cont.classList.add('bg-amber-100', 'text-amber-900', 'border-2', 'border-amber-300');
+                document.getElementById('p50_label').textContent = "";
+            } else {
+                p50Cont.classList.remove('bg-amber-100', 'text-amber-900', 'border-2', 'border-amber-300');
+                p50Cont.classList.add('bg-slate-900', 'text-white');
+                document.getElementById('p50_label').textContent = "meses";
+            }
+
+            let text = `Basado en el modelo RSF entrenado, este perfil tiene una probabilidad del <strong>${prob.toFixed(1)}%</strong> de éxito dentro del horizonte de inserción temprana (6 meses). `;
+
+            if (p50 === -1.0) {
+                text += `Dado que el p50 no se alcanza en este periodo, la mayoría de los graduados con este perfil tardan más de un semestre en insertarse. Se recomienda fortalecer las dimensiones S1 y S7 (Alineación EUR-ACE) para desplazar el riesgo.`;
+            } else {
+                text += `La velocidad de inserción es estable con una mediana de proyectada a los <strong>${p50.toFixed(1)} meses</strong>.`;
+            }
+
+            document.getElementById('interpretationText').innerHTML = text;
+            renderChart(result.survival_curve);
+        }
+
+        let chart = null;
+        function renderChart(curveData) {
+            const ctx = document.getElementById('survivalChart').getContext('2d');
+            const labels = curveData.map(d => d.t.toFixed(1));
+            const values = curveData.map(d => d.S_t);
+            if (chart) chart.destroy();
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'S(t)',
+                        data: values,
+                        borderColor: '#2563eb',
+                        backgroundColor: 'rgba(37, 99, 235, 0.08)',
+                        borderWidth: 5,
+                        pointRadius: 0,
+                        tension: 0.4,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 1.0,
+                            grid: { color: 'rgba(0,0,0,0.03)' },
+                            ticks: { font: { size: 11, weight: '700' }, color: '#64748b' }
+                        },
+                        x: {
+                            grid: { display: false },
+                            ticks: {
+                                maxRotation: 0,
+                                font: { size: 11, weight: '700' },
+                                color: '#64748b',
+                                callback: (v, i) => i % 25 === 0 ? labels[i] : ''
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: { display: false },
+                        tooltip: {
+                            mode: 'index',
+                            intersect: false,
+                            backgroundColor: '#0f172a',
+                            padding: 14,
+                            cornerRadius: 16,
+                            titleFont: { size: 12, weight: '900' },
+                            bodyFont: { size: 11, weight: '500' }
+                        }
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
